@@ -15,3 +15,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/','App\Http\Controllers\HomeController@index');
 Route::resource('pedoman',App\Http\Controllers\PedomanController::class);
+Route::resource('dashum',App\Http\Controllers\DashumController::class);
+Route::resource('sop',App\Http\Controllers\DashumController::class);
