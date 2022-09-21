@@ -79,11 +79,11 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="index.html" class="nav-item nav-link active">Beranda</a>
+                <a href="/" class="nav-item nav-link active">Beranda</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Menu PPID</a>
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
-                        <a href="pedoman.html" class="dropdown-item">Pedoman</a>
+                        <a href="/pedoman" class="dropdown-item">Pedoman</a>
                         <a href="dashum.html" class="dropdown-item">Dasar Hukum Pembentukan</a>
                         <a href="sop.html" class="dropdown-item">Standar Operasional Prosedur</a>
                     </div>
