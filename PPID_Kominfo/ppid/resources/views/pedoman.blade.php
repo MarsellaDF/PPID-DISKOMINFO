@@ -111,7 +111,7 @@
 
 
     <!-- Header Start -->
-    <div class="container-fluid header bg-primary p-0 mb-5">
+    <!-- <div class="container-fluid header bg-primary p-0 mb-5">
         <div class="row g-0 align-items-center flex-column-reverse flex-lg-row">
             <div class="col-lg-6 p-5 wow fadeIn" data-wow-delay="0.1s">
                 <h1 class="display-4 text-white mb-5">Selamat Datang di PPID Diskominfo Banyuwangi</h1>
@@ -148,7 +148,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Header End -->
 
 
@@ -162,9 +162,55 @@
                         <img class="img-fluid rounded w-50 bg-white pt-3 pe-3" src="/assets/template/img/about-2.jpg" alt="" style="margin-top: -25%;">
                     </div>
                 </div> -->
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Latar Belakang</h1>
-                    <p>Reformasi yang bergulir pada tahun 1998 yang ditandai dengan 3(tiga) tuntutan yaitu; demokratisasi, tranparasi dan supremasi hukum & HAM, telah membawa perubahan mendasar dalam kehidupan bermasyarakat, berbangsa dan benegara. Konsekuensi dari tuntutan reformasi tersebut salah satu diantaranya adalah ditetapkannya UU N0.14 tahun 2008 tentang Keterbukaan Informasi Publik yang bertujuan untuk mewujudkan tata kelola pemerintahan yang baik dan bertanggungjawab (good governance) melalui penerapan prinsip-prinsip akuntabilitas, transparansi dan supremasi hukum serta melibatkan partisipasi masyarakat dalam setiap proses kebijakan publik.</p>
+                <!-- <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s"> -->
+                <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                    <h1 class="mb-4">BUPATI BANYUWANGI</h1>
+             </div>
+                <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 700px;">
+                    <h1 class="mb-4">PERATURAN BUPATI BANYUWANGI</h1>
+             </div>
+             <div class="container-xxl py-1">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                    <h1 class="mb-4">NOMOR 19 TAHUN 2012</h1>
+             </div> 
+             <div class="container-xxl py-1">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                    <h1 class="mb-4">TENTANG</h1>
+             </div>
+             <div class="container-xxl py-1">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 900px;">
+                    <h1 class="mb-4">PEDOMAN PELAYANAN INFORMASI DAN DOKUMENTASI</h1>
+             </div>
+                    <h1 class="mb-4">DI LINGKUNGAN PEMERINTAH KABUPATEN BANYUWANGI</h1>
+                    <h1 class="mb-4">DENGAN RAHMAT TUHAN YANG MAHA ESA</h1>
+                    <h1 class="mb-4">BUPATI BANYUWANGI</h1>
+                    <p><i class="far fa-check-circle text-primary me-3"></i>Menimbang:</p>
+                    <p>a. Bahwa dalam rangka mewujudkan penyelenggaraan Pemerintahan yang baik, terbuka, dan akuntabel diperlukan keterbukaan informasi publik sebagai sarana dalam mengoptimalkan partisipasi dan pengawasan publik dalam proses Penyelenggaraan Pemerintahan dan pembangunan, sehingga perlu adanya sistem pelayanan informasi dan dokumentasi.</p>
+                    <p>b. Bahwa untuk tersedianya informasi yang dapat dipertanggungjawabkan perlu adanya pedoman untuk mengelola pelayanan informasi di lingkungan Pemerintahan Kabupaten Banyuwangi.</p>
+                    <p>c. Bahwa berdasarkan pertimbangan sebagaimana dimaksud huruf a dan huruf b, perlu menetapkan Peraturan Bupati tentang Pedoman Pengelolaan Pelayanan Informasi dan Dokumentasi di Lingkungan Pemerintah Kabupaten Banyuwangi.</p>
+                    <p><i class="far fa-check-circle text-primary me-3"></i>Mengingat:</p>
+                    <p>1. Undang - Undang Nomor 32 Tahun 2004 tentang Pemerintahan Daerah (Lembaran Negara Republik Indonesia Tahun 2004 nomor 125, Tambahan Lembaran Negara Republik Indonesia Nomor 4437) sebagaimana telah diubah kedua kali dengan Undang-Undang Nomor 12 Tahun 2008 (Lembaran Negara Republik Indonesia Tahun 2008 Nomor 59, Tambahan Lembaran Negara Republik Indonesia Nomor 4844);</p>
+                    <p>2. Undang - Undang Nomor 33 Tahun 2004 tentang Pertimbangan Keuangan antara Pemerintah Pusat dan Pemerintah Daerah (Lembaran Negara Republik Indonesia Tahun 2004 Nomor 126, Tambahan Lembaran Negara Republik Indonesia Nomor 4438);</p>
+                    <p>3. Undang - Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik ( Lembaran Negara Republik Indonesia Tahun 2008 Nomor 61, Tambahan Lembaran Negara Republik Indonesia Nomor 4846 );</p>
+                    <p>4. Undang - Undang Nomor 25 Tahun 2009 tentang Pelayanan Publik ( Lembaran Negara Republik Indonesia Tahun 2009 Nomor 112, Tambahan Lembaran Negara Republik Indonesia Nomor 5038 );</P>
+                    <p>5. Undang - Undang Nomor 12 Tahun 2011 tentang Pembentukan Peraturan Perundang - Undangan ( Lembaran Negara Republik Indonesia Tahun 2011 Nomor 82, Tambahan Lembaran Negara Republik Indonesia Nomor 5234 );</P>
+                    <p>6. Peraturan Pemerintah Nomor 41 Tahun 2007 tentang Organisasi Perangkat Daerah ( Lembaran Negara Republik Indonesia Tahun 2007 Nomor 89, Tambahan Lembaran Negara Republik Indonesia Nomor 4741 );</p>
+                    <p>7. Peraturan Pemerintah Nomor 61 Tahun 2010 tentang Pelaksanaan Undang-undang Nomor 14 Tahun 2008 tentang keterbukaan Informasi Publik (Lembaran Negara)
+                          Rebuplik Indonesia Tahun 2010 Nomor 99, Tambahan Lembaran Negara Republik Indonesian Nomor 5149);</p>
+                    <p>8. Peraturan Menteri Dalam Negeri Nomor 57 Tahun 2007 tentang Petunjuk Teknis Penataan Organisasi Perangkat Daerah;</p>
+                    <p>9. Peraturan Menteri Dalam Negeri Nomor 35 Tahun 2010 tentang Pedoman Pengelolaan Pelayanan Informasi dan
+                          Dokumentasi di Lingkungan Kementerian Dalam Negeri dan Pemerintahan Daerah (Berita Negara Republik Indonesia Tahun 2010 Nomor 245);</p>
+                    <p>10. Peraturan Komisi Informasi Nomor 1 Tahun 2010 tentang Standar Layanan Informasi Publik;</p>
+                    <p>11. Peraturan Daerah Kabupaten Banyuwangi Nomor 6 Tahun 2011 tentang Organisasi Perangkat Daerah Kabupaten Banyuwangi
+                           ( Lembaran Daerah Kabupaten Banyuwangi Tahun 2011 Nomor 1 / D );</p>
+
                     <p class="mb-4">Dalam proses keterlibatan masyarakat perlu diakomodasikan dengan cara mempermudah jaminan akses informasi publik berdasarkan pedoman pengelolaan informasi dan dokumentasi. Dalam kaitan ini, pengelolaan informasi dan dokumentasi publik diharapkan tidak sampai mengganggu prinsip kehati-hatian dalam menjaga kelangsungan kehidupan berbangsa dan bernegara untuk kepentingan yang lebih luas.</p>
                     <p class="mb-4">Penerapan prinsip-prinsip good governance ini pada dasarnya sangat tergantung pada persiapan masing-masing Kementerian Komunikasi dan Informatika dalam mengelola informasi dan dokumentasi bagi masyarakat. Untuk itu, sebagai upaya menyamakan persepsi dalam menciptakan dan menjamin kelancaraan dalam pelayanan informasi publik, maka disusun Pedoman Pengelolaan Informasi dan Dokumentasi di lingkungan Kementerian Komunikasi dan Informatika.</p>
                     <p><i class="far fa-check-circle text-primary me-3"></i>Maksud</p>
