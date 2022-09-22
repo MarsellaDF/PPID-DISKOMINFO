@@ -1,119 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
+<!-- memanggil badan -> file layout.blade.php -->
+@extends('layout')
 
-<head>
-    <meta charset="utf-8">
-    <title>PPID DISKOMINFO KABUPATEN BANYUWANGI</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
-
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&family=Roboto:wght@500;700;900&display=swap" rel="stylesheet"> 
-
-    <!-- Icon Font Stylesheet -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-
-    <!-- Libraries Stylesheet -->
-    <link href="/assets/template/lib/animate/animate.min.css" rel="stylesheet">
-    <link href="/assets/template/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="/assets/template/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
-
-    <!-- Customized Bootstrap Stylesheet -->
-    <link href="/assets/template/css/bootstrap.min.css" rel="stylesheet">
-
-    <!-- Template Stylesheet -->
-    <link href="/assets/template/css/style.css" rel="stylesheet">
-</head>
-
-<body>
-    <!-- Spinner Start -->
-    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
-        <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
-            <span class="sr-only">Loading...</span>
-        </div>
-    </div>
-    <!-- Spinner End -->
-
-
-    <!-- Topbar Start -->
-    <div class="container-fluid bg-light p-0 wow fadeIn" data-wow-delay="0.1s">
-        <div class="row gx-0 d-none d-lg-flex">
-            <div class="col-lg-7 px-5 text-start">
-                <div class="h-100 d-inline-flex align-items-center py-3 me-4">
-                    <small class="fa fa-map-marker-alt text-primary me-2"></small>
-                    <small>Jl. Kh. Agus Salim No. 85</small>
-                </div>
-                <div class="h-100 d-inline-flex align-items-center py-3">
-                    <small class="far fa-clock text-primary me-2"></small>
-                    <small>Senin - Jum'at : 08.00 WIB - 15.00 WIB</small>
-                </div>
-            </div>
-            <div class="col-lg-5 px-5 text-end">
-                <div class="h-100 d-inline-flex align-items-center py-3 me-4">
-                    <small class="fa fa-phone-alt text-primary me-2"></small>
-                    <small>(0333) 422400</small>
-                </div>
-                <div class="h-100 d-inline-flex align-items-center">
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href=""><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-0" href=""><i class="fab fa-instagram"></i></a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Topbar End -->
-
-
-    <!-- Navbar Start -->
-    <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 wow fadeIn" data-wow-delay="0.1s">
-        <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="/" class="nav-item nav-link active">Beranda</a>
-                <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Menu PPID</a>
-                    <div class="dropdown-menu rounded-0 rounded-bottom m-0">
-                        <a href="/pedoman" class="dropdown-item">Pedoman</a>
-                        <a href="/dashum" class="dropdown-item">Dasar Hukum Pembentukan</a>
-                        <a href="/sop" class="dropdown-item">Standar Operasional Prosedur</a>
-                    </div>
-                </div>
-                <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Daftar Informasi Publik</a>
-                    <div class="dropdown-menu rounded-0 rounded-bottom m-0">
-                        <a href="berkala.html" class="dropdown-item">Daftar Informasi Berkala</a>
-                        <a href="sesaat.html" class="dropdown-item">Daftar Informasi Setiap Saat</a>
-                        <a href="semerta.html" class="dropdown-item">Daftar Informasi Serta Merta</a>
-                        <a href="kecuali.html" class="dropdown-item">Daftar Informasi Dikecualikan</a>
-                    </div>
-                </div>
-                <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pengajuan Permohonan</a>
-                    <div class="dropdown-menu rounded-0 rounded-bottom m-0">
-                        <a href="alur.html" class="dropdown-item">Alur Pelayanan</a>
-                        <a href="pengajuan.html" class="dropdown-item">Permohonan Informasi Publik</a>
-                    </div>
-                </div>
-            <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Login<i class="fa fa-arrow-right ms-3"></i></a>
-        </div>
-    </nav>
-    <!-- Navbar End -->
-
+<!-- mengisi badan content dengan isi di bawah section ini dan ditutupi oleh @stop paling bawah -->
+@section('content')
 
     <!-- Header Start -->
-    <div class="container-fluid header bg-primary p-0 mb-5">
+    <!-- <div class="container-fluid header bg-primary p-0 mb-5">
         <div class="row g-0 align-items-center flex-column-reverse flex-lg-row">
-            <div class="col-lg-6 p-5 wow fadeIn" data-wow-delay="0.1s">
+            <div class="col-lg-6 p-5 wow fadeOut" data-wow-delay="0.1s">
                 <h1 class="display-4 text-white mb-5">Selamat Datang di PPID Diskominfo Banyuwangi</h1>
                 <div class="row g-4">
                     <div class="col-sm-4">
@@ -136,7 +30,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+            <div class="col-lg-6 wow fadeOut" data-wow-delay="0.5s">
                 <div class="owl-carousel header-carousel">
                     <div class="owl-carousel-item position-relative">
                         <img class="img-fluid" src="/assets/template/img/start1.jpg"></div>
@@ -148,7 +42,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Header End -->
 
 
@@ -162,17 +56,45 @@
                         <img class="img-fluid rounded w-50 bg-white pt-3 pe-3" src="/assets/template/img/about-2.jpg" alt="" style="margin-top: -25%;">
                     </div>
                 </div> -->
-                <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Latar Belakang</h1>
-                    <p>Reformasi yang bergulir pada tahun 1998 yang ditandai dengan 3(tiga) tuntutan yaitu; demokratisasi, tranparasi dan supremasi hukum & HAM, telah membawa perubahan mendasar dalam kehidupan bermasyarakat, berbangsa dan benegara. Konsekuensi dari tuntutan reformasi tersebut salah satu diantaranya adalah ditetapkannya UU N0.14 tahun 2008 tentang Keterbukaan Informasi Publik yang bertujuan untuk mewujudkan tata kelola pemerintahan yang baik dan bertanggungjawab (good governance) melalui penerapan prinsip-prinsip akuntabilitas, transparansi dan supremasi hukum serta melibatkan partisipasi masyarakat dalam setiap proses kebijakan publik.</p>
-                    <p class="mb-4">Dalam proses keterlibatan masyarakat perlu diakomodasikan dengan cara mempermudah jaminan akses informasi publik berdasarkan pedoman pengelolaan informasi dan dokumentasi. Dalam kaitan ini, pengelolaan informasi dan dokumentasi publik diharapkan tidak sampai mengganggu prinsip kehati-hatian dalam menjaga kelangsungan kehidupan berbangsa dan bernegara untuk kepentingan yang lebih luas.</p>
-                    <p class="mb-4">Penerapan prinsip-prinsip good governance ini pada dasarnya sangat tergantung pada persiapan masing-masing Kementerian Komunikasi dan Informatika dalam mengelola informasi dan dokumentasi bagi masyarakat. Untuk itu, sebagai upaya menyamakan persepsi dalam menciptakan dan menjamin kelancaraan dalam pelayanan informasi publik, maka disusun Pedoman Pengelolaan Informasi dan Dokumentasi di lingkungan Kementerian Komunikasi dan Informatika.</p>
-                    <p><i class="far fa-check-circle text-primary me-3"></i>Maksud</p>
+                <!-- <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s"> -->
+                <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                    <h1 class="mb-4">DASAR HUKUM PEMBENTUKAN</h1>
+             </div> 
+                    <p>I. PERATURAN YANG MENDASARI PEMBENTUKAN PPID:</p>
+                <div class="text-justify mx-auto mb-2" style="text-indent: 50px">
+                    <p>1. UNDANG-UNDANG RI NO. 14 /2008 TENTANG KETERBUKAAN INFORMASI PUBLIK</p>
+                    <p>2. PERATURAN PEMERINTAH RI NO. 61 /2010 TENTANG PELAKSANAAN UNDANG-UNDANG NO 14 /2008</p>
+                    <p>3. PERATURAN KOMISI INFORMASI NO. 1 / 2010 TENTANG STANDAR LAYANAN INFORMASI PUBLIK</p>
+                    <p>4. PERATURAN MENTERI DALAM NEGERI NO. 2 /2010 TENTANG PEDOMAN PENGELOLAAN PELAYANAN INFORMASI DAN DOKUMENTASI </P>
+                    <p>DI LINGKUNGAN KEMENTERIAN DALAM NEGERI</p>
+                    <P>5. PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA NO. 10 / 2010 TENTANG PEDOMAN PENGELOLAAN PELAYANAN INFORMASI DAN </p>
+                    <p> DOKUMENTASI DI LINGKUNGAN KEMENTERIAN KOMUNIKASI DAN INFORMATIKA</p>
+                </div>
+                    <p>II. PERATURAN YANG MENDASARI PEMBENTUKAN PPID KABUPATEN BANYUWANGI:</p>
+                <div class="text-justify mx-auto mb-2" style="text-indent: 50px">
+                    <p>1. SURAT KEPUTUSAN BUPATI NOMOR : 199/511/KEP/429.011/2012 TENTANG PEMBENTUKAN TIM PENYUSUNAN RANCANGAN PERATURAN </P>
+                    <p> BUPATI TENTANG PEDOMAN PENGELOLAAN PELAYANAN INFORMASI DAN DOKUMENTASI DI KABUPATEN BANYUWANGI</p>
+                    <p>2. PERATURAN BUPATI BANYUWANGI NOMOR 19 THN 2012 TANGGAL 25 JUNI 2012 Tentang PEDOMAN PELAYANAN INFORMASI DAN </P>
+                    <p> DOKUMENTASI DI LINGKUNGAN PEMERINTAH KABUPATEN BANYUWANGI</p>
+                </div>
+                    <p>III. PERATURAN YANG MENDASARI PEMBENTUKAN PPID PEMBANTU DISKOMINFO DAN PERSANDIAN KABUPATEN BANYUWANGI:</p>
+                <div class="text-justify mx-auto mb-2" style="text-indent: 50px">
+                    <p>1. KEPUTUSAN KEPALA DINAS KOMINFO DAN PERSANDIAN KABUPATEN BANYUWANGI NOMOR : 891/169/429.118/2017</P>
+                    <p>Tentang : Pejabat Pengelola Informasi dan Dokumentasi (PPID) pembantu pada KOMUNIKASI, INFORMATIKA DAN PERSANDIAN KABUPATEN </P>
+                    <p>BANYUWANGI</p>
+                    <p>2. KEPUTUSAN KEPALA DINAS KOMINFO DAN PERSANDIAN KABUPATEN BANYUWANGI NOMOR : 118/11/KEP/429.116/2020</P>
+                    <p> Tentang : Pejabat Pengelola Informasi dan Dokumentasi (PPID) pembantu pada Dinas Komunikasi, Informatika dan Persandian Kabupaten</p>
+                    <p> Banyuwangi</p>
+                </div>
+<!-- <p class="mb-4">Penerapan prinsip-prinsip good governance ini pada dasarnya sangat tergantung pada persiapan masing-masing Kementerian Komunikasi dan Informatika dalam mengelola informasi dan dokumentasi bagi masyarakat. Untuk itu, sebagai upaya menyamakan persepsi dalam menciptakan dan menjamin kelancaraan dalam pelayanan informasi publik, maka disusun Pedoman Pengelolaan Informasi dan Dokumentasi di lingkungan Kementerian Komunikasi dan Informatika.</p> -->
+                    <!-- <p><i class="far fa-check-circle text-primary me-3"></i>Maksud</p>
                     <p>Pedoman pengelolaan Informasi dan Dokumentasi di lingkungan Kementerian Komunikasi dan Informatika dimaksudkan sebagai acuan bagi setiap Satuan Kerja dalam penyediaan, pengumpulan, pendokumentasian dan pelayanan, serta penetapan Pejabat Pengelola Informasi dan Dokumentasi.</p>
                     <p><i class="far fa-check-circle text-primary me-3"></i>Tujuan</p>
                     <p>a. Masing-masing Satuan Kerja mampu menyediakan, mengumpulkan, mendokumentasikan dan menyampaikan informasi tentang kegiatan dan produk unit kerjanya secara akurat dan tidak menyesatkan;</p>
                     <p>b. Satuan Kerja mampu menyediakan, mengumpulkan, mendokumentasikan dan menyampaikan bahan dan produk informasi secara cepat dan tepat waktu;</p>
-                    <p>c. Pejabat Pengelola Informasi dan Dokumentasi mampu memberikan pelayanan informasi secara cepat dan tepat waktu dengan biaya ringan dan cara sederhana.</p>
+                    <p>c. Pejabat Pengelola Informasi dan Dokumentasi mampu memberikan pelayanan informasi secara cepat dan tepat waktu dengan biaya ringan dan cara sederhana.</p> -->
                 </div>
             <!-- </div>
         </div>
@@ -255,7 +177,7 @@
 
 
     <!-- Feature Start -->
-    <div class="container-fluid bg-primary overflow-hidden my-5 px-lg-0">
+    <!-- <div class="container-fluid bg-primary overflow-hidden my-5 px-lg-0">
         <div class="container feature px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.1s">
@@ -318,12 +240,12 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Feature End -->
 
 
     <!-- Team Start -->
-    <div class="container-xxl py-5">
+    <!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="d-inline-block border rounded-pill py-1 px-4">Doctors</p>
@@ -396,7 +318,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Team End -->
 
 
@@ -479,7 +401,7 @@
 
 
     <!-- Testimonial Start -->
-    <div class="container-xxl py-5">
+    <!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="d-inline-block border rounded-pill py-1 px-4">Testimonial</p>
@@ -512,89 +434,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Testimonial End -->
 
-
-    <!-- Footer Start -->
-    <div class="container-fluid bg-dark text-light footer mt-5 pt-5 wow fadeIn" data-wow-delay="0.1s">
-        <div class="container py-5">
-            <div class="row g-5">
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-light mb-4">Tentang Kami</h5>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Jl. Kh. Agus Salim No. 85</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>(0333) 422400</p>
-                    <p class="mb-2"><i class="fa fa-envelope me-3"></i>kominfosandi@banyuwangikab.go.id</p>
-                    <!-- <div class="d-flex pt-2">
-                        <a class="btn btn-outline-light btn-social rounded-circle" href=""><i class="fab fa-twitter"></i></a>
-                        <a class="btn btn-outline-light btn-social rounded-circle" href=""><i class="fab fa-facebook-f"></i></a>
-                        <a class="btn btn-outline-light btn-social rounded-circle" href=""><i class="fab fa-youtube"></i></a>
-                        <a class="btn btn-outline-light btn-social rounded-circle" href=""><i class="fab fa-linkedin-in"></i></a>
-                    </div> -->
-                </div>
-                <!-- <div class="col-lg-3 col-md-6">
-                    <h5 class="text-light mb-4">Services</h5>
-                    <a class="btn btn-link" href="">Cardiology</a>
-                    <a class="btn btn-link" href="">Pulmonary</a>
-                    <a class="btn btn-link" href="">Neurology</a>
-                    <a class="btn btn-link" href="">Orthopedics</a>
-                    <a class="btn btn-link" href="">Laboratory</a>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-light mb-4">Quick Links</h5>
-                    <a class="btn btn-link" href="">About Us</a>
-                    <a class="btn btn-link" href="">Contact Us</a>
-                    <a class="btn btn-link" href="">Our Services</a>
-                    <a class="btn btn-link" href="">Terms & Condition</a>
-                    <a class="btn btn-link" href="">Support</a>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <h5 class="text-light mb-4">Newsletter</h5>
-                    <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
-                    <div class="position-relative mx-auto" style="max-width: 400px;">
-                        <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
-                    </div> -->
-                </div>
-            </div>
-        </div>
-        <div class="container">
-            <div class="copyright">
-                <div class="row">
-                    <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                        &copy; <a class="border-bottom" href="#">Diskominfo.Banyuwangi2022</a>, All Right Reserved.
-                    </div>
-                    <div class="col-md-6 text-center text-md-end">
-                        <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        Designed By <a class="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
-                        </br>
-                        Distributed By <a class="border-bottom" href="https://themewagon.com" target="_blank">ThemeWagon</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Footer End -->
-
-
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
-
-
-    <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="/assets/template/lib/wow/wow.min.js"></script>
-    <script src="/assets/template/lib/easing/easing.min.js"></script>
-    <script src="/assets/template/lib/waypoints/waypoints.min.js"></script>
-    <script src="/assets/template/lib/counterup/counterup.min.js"></script>
-    <script src="/assets/template/lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="/assets/template/lib/tempusdominus/js/moment.min.js"></script>
-    <script src="/assets/template/lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="/assets/template/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
-
-    <!-- Template Javascript -->
-    <script src="/assets/template/js/main.js"></script>
-</body>
-
-</html>
+@stop
