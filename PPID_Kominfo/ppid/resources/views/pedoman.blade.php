@@ -7,35 +7,14 @@
        <div class="container-xxl py-5">
               <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">BUPATI BANYUWANGI</h1>
-             </div>
-     <div class="container-xxl py-5">
-       <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h1 class="mb-4">PERATURAN BUPATI BANYUWANGI</h1>
-             </div>
-       <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-2">PERATURAN BUPATI BANYUWANGI</h1>
                     <h1 class="mb-4">NOMOR 19 TAHUN 2012</h1>
-             </div> 
-       <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h1 class="mb-4">TENTANG</h1>
-             </div>
-      <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h1 class="mb-4">PEDOMAN PELAYANAN INFORMASI DAN DOKUMENTASI</h1>
-             </div>
-      <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h1 class="mb-4">DI LINGKUNGAN PEMERINTAH KABUPATEN BANYUWANGI</h1>
-              </div>
-       <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h1 class="mb-4">DENGAN RAHMAT TUHAN YANG MAHA ESA</h1>
-              </div>
-       <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h1 class="mb-4">BUPATI BANYUWANGI,</h1>
-              </div>
+                    <h1 class="mb-2">TENTANG</h1>
+                    <h1 class="mb-2">PEDOMAN PELAYANAN INFORMASI DAN DOKUMENTASI</h1>
+                    <h1 class="mb-2">DI LINGKUNGAN PEMERINTAH KABUPATEN BANYUWANGI</h1>
+                    <h1 class="mb-2">DENGAN RAHMAT TUHAN YANG MAHA ESA</h1>
+                    <h1 class="mb-2">BUPATI BANYUWANGI,</h1>
+              <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
                     Menimbang:<br>
                     a. Bahwa dalam rangka mewujudkan penyelenggaraan Pemerintahan yang baik, terbuka, dan akuntabel diperlukan keterbukaan informasi publik sebagai sarana dalam mengoptimalkan partisipasi dan pengawasan publik dalam proses Penyelenggaraan Pemerintahan dan pembangunan, sehingga perlu adanya sistem pelayanan informasi dan dokumentasi.<br>
                     b. Bahwa untuk tersedianya informasi yang dapat dipertanggungjawabkan perlu adanya pedoman untuk mengelola pelayanan informasi di lingkungan Pemerintahan Kabupaten Banyuwangi.<br>
@@ -60,13 +39,7 @@
        <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">BAB 1</h1>
-             </div>
-       <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">KETENTUAN UMUM</h1>
-             </div>
-       <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">Pasal 1</h1>
              </div>
                     Dalam Peraturan Bupati ini yang dimaksud dengan :<br>
@@ -91,17 +64,10 @@
        <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">BAB II</h1>
-             </div>
-       <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">PENGELOLA LAYANAN INFORMASI DAN DOKUMENTASI</h1>
-             </div>
-       <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 2</p>
              </div>
                 <p class="mb-4">Pemerintahan Daerah yang terdiri dari Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah sebagai Badan Publik melaksanakan pengelolaan pelayanan informasi dan dokumentasi.</p>
-       <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 3</p>
              </div>
@@ -113,13 +79,7 @@
        <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">BAB III</h1>
-             </div>
-       <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">HAK DAN KEWAJIBAN</h1>
-             </div>
-       <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 4</p>
              </div>
                     (1) Pemerintah Daerah berhak menolak memberikan informasi yang dikecualikan;<br>
@@ -407,7 +367,5 @@
             Peraturan Bupati ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Banyuwangi.<br>
         </div>
     </div>
-    <!-- About End -->
-
 
 @stop
