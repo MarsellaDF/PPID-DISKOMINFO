@@ -96,9 +96,9 @@
                     <p>b. Satuan Kerja mampu menyediakan, mengumpulkan, mendokumentasikan dan menyampaikan bahan dan produk informasi secara cepat dan tepat waktu;</p>
                     <p>c. Pejabat Pengelola Informasi dan Dokumentasi mampu memberikan pelayanan informasi secara cepat dan tepat waktu dengan biaya ringan dan cara sederhana.</p> -->
                 </div>
-            <!-- </div>
+            </div>
         </div>
-    </div> -->
+    </div>
     <!-- About End -->
 
 
