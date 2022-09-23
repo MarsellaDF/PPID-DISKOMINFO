@@ -139,24 +139,272 @@
                     <P>(1) Pemerintah Daerah wajib menyediakan, memberikan dan / atau menerbitkan informasi publik yang berada dibawah kewenangannya kepada pemohon informasi publik, selain informasi yang dikecualikan sesuai dengan Peraturan Perundang - undangan;</P>
                     <P>(2) Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1), Pemerintah Daerah membangun dan mengembangkan sistem informasi dan dokumentasi pengelolaan informasi publik yang dapat diakses dengan mudah.</P>
              <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">BAB IV</h1>
              </div>
              <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 800px;">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4"> PEJABAT PENGELOLA INFORMASI DAN DOKUMENTASI </h1>
              </div>
              <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 6</p>
+             </div>
                     <p>(1) Untuk mengelola pelayanan informasi dan dokumentasi di lingkungan Pemerintahan Daerah ditetapkan PPID;</p>
                     <p>(2) PPID sebagaimana dimaksud pada ayat (1) melekat pada pejabat struktural yang membidangi tugas dan fungsi pelayanan informasi;</p>
                     <p>(3) PPID ditetapkan oleh Bupati</p>
+             <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 7</p>
              </div>
+                    (1)PPID bertanggungjawab kepada Bupati melalui Sekretaris Daerah;<br>
+                    (2)PPID dibantu oleh PPID pembantu yang berada di lingkungan SKPD.<br>
+             <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 8</p>
+             </div>
+                    PPID bertugas :<br>
+                    a.Mengkoordinasikan dan mengkonsolidasikan pengumpulan bahan informasi dan dokumentasi dari PPID Pembantu;<br>
+                    b.Menyimpan, mendokumentasikan, menyediakan dan memberi pelayanan informasi kepada publik;<br>
+                    c.Melakukan verifikasi bahan informasi publik;<br>
+                    d.Melakukan uji konsekuensi atas informasi yang dikecualikan;<br>
+                    e.Melakukan pemutakhiran informasi dan dokumentasi ; dan<br>
+                    f.Menyediakan informasi dan dokumentasi untuk diakses oleh masyarakat.<br>
+              <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 9</p>
+             </div>
+                      Dalam rangka melaksanakan tugas sebagaimana dimaksud dalam Pasal 8, PPID berwenang:<br>
+                      a.Menolak memberikan informasi yang dikecualikan sesuai ketentuan Peraturan Perundang-undangan;<br>
+                      b.Meminta dan memperoleh informasi dari unit kerja/ komponen/ satuan kerja yang menjadi cakupan kerjanya;<br>
+                      c.Mengkoordinasikan pemberian pelayanan informasi dengan PPID Pembantu dan/ atau Pejabat Fungsional yang menjadi cakupan kerjanya;<br>
+                      d.Menentukan atau menetapkan suatu informasi dapat/ tidaknya diakses publik;<br>
+                      e.Menugaskan PPID Pembantu dan/atau Pejabat Fungsional untuk membuat, mengumpulkan, serta memelihara informasi dan dokumentasi untuk kebutuhan organisasi.<br>
+              <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 10</p>
+             </div> 
+                      (1)PPID Pembantu sebagaimana tersebut pada Pasal 7 ayat (2) mempunyai kriteria sebagai berikut:<br>
+                       a. Merupakan pejabat struktural yang melaksanakan tugas pokok dan fungsi PPID pada SKPD;<br>
+                       b. PPID Pembantu dijabat oleh Sekretaris atau Kepala Tata Usaha pada SKPD.<br>
+                      (2) PPID Pembantu ditetapkan dengan Keputusan Kepala SKPD;<br>
+                      (3) PPID Pembantu bertugas membantu PPIDmelaksanakan ketentuan sebagaimana dimaksud dalam Pasal 8 dan Pasal 9;<br>
+                      (4) PPID Pembantu menyampaikan informasi dan dokumentasi kepada PPID secara berkala dan sesuai kebutuhan.<br>
+              <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 11</p>
+             </div> 
+                      Tata kerja PPID di lingkungan Pemerintah Daerah diatur oleh Bupati sesuai kewenangannya.<br>
+              <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4">BAB V</h1>
+             </div>
+             <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4"> PEMOHON INFORMASI DAN DOKUMENTASI </h1>
+             </div>
+             <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 12</p>
+             </div>
+                      Pemohon informasi dan dokumentasi meliputi:<br>
+                      a.Perseorangan;<br>
+                      b.Kelompok Masyarakat;<br>
+                      c.Lembaga Swadaya masyarakat;<br>
+                      d.Organisasi masyarakat;<br>
+                      e.Partai Politik ; atau<br>
+                      f.Badan Publik lainnya.<br>
+              <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 13</p>
+             </div>
+                      Pemohon informasi dan dokumentasi kepada pemerintahan daerah harus memenuhi persyaratan :<br>
+                      a.Mencantumkan identitas yang jelas ;<br>
+                      b.Mencantumkan alamat dan nomor telepon ;<br>
+                      c.Menyampaikan secara jelas jenis informasi dan dokumentasi yang dibutuhkan ; dan<br>
+                      d.Mencantumkan maksud dan tujuan permohonan informasi dan dokumentasi .<br>
+              <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4">BAB VI</h1>
+             </div>
+             <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4"> KLASIFIKASI INFORMASI PUBLIK </h1>
+             </div>
+             <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4"> Bagian Kesatu Umum</h1>
+             </div>
+             <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 14</p> 
+             </div>
+                      Informasi publik di lingkungan Pemerintah Daerah merupakan informasi yang dihasilkan, disimpan, dikelola, dikirim, atau diterima, yang berkaitan dengan kegiatan penyelenggaraan pemerintahan di Daerah.<br>
+              <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 15</p> 
+             </div>
+                      Informasi public sebagaimana dimaksud dalam Pasal 14 , diklasifikasikan menjadi 4 (empat) kelompok :<br>
+                      a.Informasi yang wajib disediakan dan diumumkan secara berkala;<br>
+                      b.Informasi yang wajib diumumkan secara serta merta ;<br>
+                      c.Informasi yang wajib tersedia setiap saat ;<br>
+                      d.Informasi yang dikecualikan .<br>
+              <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4"> Bagian Kedua Informasi yang Wajib Disediakan dan Diumumkan secara Berkala</h1>
+             </div>
+             <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 16</p> 
             </div>
+                      (1)Informasi yang wajib disediakan dan diumumkan secara berkala, sekurang-kurangnya terdiri atas :<br>
+                         a.Informasi tentang profil badn publik yang meliputi :<br>
+                            1.Informasi tentang kedudukan atau domisili beserta alamat lengkap, ruang lingkup kegiatan, maksud dan tujuan, tugas dan ; fungsi Badan publik beserta unit-unit kerja di bawahnya;<br>
+                            2.Struktur organisasi, gambaran umum.<br>
+                         b.Ringkasan informasi tentang program dan/atau kegiatanyang sedang dijalankan dalam badan publik,terdiri atas :<br>
+                            1.Nama program dan kegiatan;<br>
+                            2.Penanggungjawab, pelaksana program dan kegiatan;<br>
+                            3.Target dan/atau capaian program dan kegiatan;<br>
+                            4.Jadwal pelaksanaan program dan kegiatan;<br>
+                            5.Anggaran program dan kegiatan yang meliputi sumber dan jumlah;<br>
+                            6.Agenda penting terkait pelaksanaan tugas badan publik.<br>
+                         c.Ringkasan informasi tentang kinerja dalam lingkup badan publik;<br>
+                         d.Ringkasan laporan keuangan;<br>
+                         e.Ringkasan laporan akses Informasi Publik,terdiri atas :<br>
+                            1.Jumlah permohonan Informasi Publik yang diterima;<br>
+                            2.Waktu yang diperlukan dalam memenuhi setiap permohonan Informasi Publik;<br>
+                            3.Jumlah permohonan Informasi Publik yang dikabulkan baik sebagian atau seluruhnya dan permohonan Informasi Publik yang ditolak;<br>
+                            4.Alasan penolakan permohonan Informasi Publik.<br>
+                         f.Informasi tentang peraturan, keputusan dan/ataukebijakanyang mengikat dan/atau berdampak bagi publik yang dikeluarkan oleh badan publik,terdiri atas :<br>
+                            1.Daftar rancangan Peraturan Perundang-undangan Daerah, yang sedang dalam proses pembuatan;<br>
+                            2.Daftar Peraturan Perundang-undangan, yang telah diundangkan.<br>
+                         g.Informasi tentang hak dan tata cara memperoleh Informasi Publik serta tata cara,pengajuan keberatan serta proses penyelesaian sengketa Informasi Publik berikut pihak-pihak yang bertanggung jawab yang dapat dihubungi;<br>
+                         h.Informasi tentang tata cara pelayanan pengaduan;<br>
+                         i.Informasi tentang pengumuman pengadaan barang dan/atau jasa sesuai dengan peraturan perundang-undangan terkait.<br>
+                           (2)Pengumuman secara berkala sebagaimana dimaksud pada ayat (1), dilakukan sekurang-kurangnya setiap 1 (satu) tahun sekali.<br>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4"> Bagian Ketiga Informasi yang Wajib Diumumkan secara Serta Merta</h1>
+             </div>
+               <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 17</p>
+             </div>
+                       (1)Setiap Badan Publik wajib mengumumkan secara serta merta, yaitu suatu informasi yang dapat mengancam hajat hidup orang banyak dan ketertiban umum antara lain :<br>
+                          a.Informasi tentang bencana alam seperti kekeringan, kebakaran hutan karena factor alam, hama penyakit tanaman, epidemik, wabah dan kejadian luarbiasa;<br>
+                          b.Informasi tentang keadaan bencana non alam seperti kegagalan industri atau teknologi, dampak industri, dan pencemaran lingkungan;<br>
+                          c.Bencana sosial seperti kerusuhan sosial, konflik sosial antar kelompok atau antar komunitas masyarakat dan teror;<br>
+                          d.Informasi tentang jenis, persebaran dan daerah yang menjadi sumber penyakit yang berpotensi menular;<br>
+                          e.Informasi tentang racun pada bahan makanan yang dikonsumsi oleh masyarakat; atau<br>
+                          f.Informasi tentang rencana gangguan terhadap putilitas publik.<br>
+                       (2)Pengumuman informasi sebagaimana dimaksud pada ayat (1), disampaikan dengan bahasa yang sederhana, mudah dimengerti dan dipahami oleh masyarakat.<br>
+               <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 18</p>
+             </div>   
+                       (1)Pihak yang menerima izin atau perjanjian kerja dari badan publik yang kegiatannya berpotensi mengancam hajat hidup orang banyak dan ketertiban umum sebagaimana dimaksud dalam Pasal 31 ayat (1), wajib memiliki Standar pengumuman informasi;<br>
+                       (2)Standar pengumuman informasi sebagaimana dimaksud pada ayat (1),sekurang-kurangnya meliputi:<br>
+                          a.Potensi bahaya dan/atau besaran dampak yang dapat ditimbulkan;<br>
+                          b.Pihak-pihak yang berpotensi terkena dampak baik masyarakat umum maupun pegawai badan publik yang menerima izin atau perjanjian kerja dari badan publik tersebut;<br>
+                          c.Prosedur dan tempat evakuasi apabila keadaan darurat terjadi;<br>
+                          d.Tata cara pengumuman informasi apabila keadaan darurat terjadi;<br>
+                          e.Cara menghindari bahaya dan/atau dampak yang ditimbulkan;<br>
+                          f.Cara mendapatkan bantuan dari pihak yang berwenang;<br>
+                          g. Upaya-upaya yang dilakukan oleh badan publik dan / atau pihak-pihak yang berwenang dalam menanggulangi bahaya dan/atau dampak yang ditimbulkan.<br>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4">Bagian Keempat Informasi yang Wajib Tersedia Setiap Saat</h1>
+             </div>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 19</p> 
+            </div>
+                       (1)Setiap badan publik wajib menyediakan Informasi Publik setiap saat,kecuali yang dapat ditolak sebagaimana yang telah ditetapkan; dalam ketentuan peraturan perundang-undangan.<b>
+                       (2)Informasi sebagaimana dimaksud pada ayat (1), terdiri dari :<br>
+                          a.Daftar Informasi Publik, yang memuat :<br>
+                            1.Nomor;<br>
+                            2.Ringkasan isi informasi;<br>
+                            3.Pejabat atau unit/satuan kerja yang menguasai informasi;<br>
+                            4.Penanggungjawab pembuatan atau penerbitan informasi;<br>
+                            5.Waktu dan tempat pembuatan informasi;<br>
+                            6.Bentuk informasi yang tersedia;<br>
+                            7.Jangka waktu penyimpanan atau retensiarsip;<br>
+                          b.Informasi tentang peraturan, keputusan dan/atau kebijakan badan publik;<br>
+                          c.Seluruh informasi lengkap yang wajib disediakan dan diumumkan secara berkala sebagaimana dimaksud dalam Pasal 16;<br>
+                          d.Informasi tentang organisasi, administrasi, kepegawaian, dan keuangan;<br>
+                          e.Surat-surat perjanjian dengan pihak ketiga berikut dokumen pendukungnya;<br>
+                          f.Surat menyurat pimpinan atau pejabat Badan publik dalam rangka pelaksanaan tugas pokok dan fungsinya;<br>
+                          g.Syarat-syarat perizinan,izin yang diterbitkan dan/atau dikeluarkan berikut dokumen pendukungnya, dan laporan tentang ketaatan pelaksanaan izin yang diberikan;<br>
+                          h.Data perbendaharaan atau inventaris;<br>
+                          i.Rencana strategis dan rencana kerja Badan publik<br>
+                          j.Agenda kerja pimpinan badan publik<br>
+                          k.Informasi mengenai kegiatan pelayanan Informasi Publik yang dilaksanakan, sarana dan prasarana layanan Informasi Publik yang dimiliki beserta kondisinya, sumber daya manusia yang menangani layanan Informasi Publik beserta kualifikasinya, anggaran layanan Informasi Publik serta laporan penggunaannya;<br>
+                          l.Jumlah, jenis, dan gambaran umum pelanggaran yang ditemukan dalam pengawasan internal serta laporan penindakannya;<br>
+                          m.Jumlah, jenis, dan gambaran umum pelanggaran yang dilaporkan oleh masyarakat serta laporan penindakannya;<br>
+                          n.Daftar serta hasil-hasil penelitian yang dilakukan;<br>
+                          o.Informasi Publik lain yang telah dinyatakan terbuka bagi masyarakat berdasarkan mekanisme keberatan dan/penyelesaian sengketa sebagaimana dimaksud dalam pasal 11 Undang-Undang Nomor 14 Tahun 2008 tentang keterbukaan Informasi Publik;<br>
+                          p.Informasi tentang standar pengumuman informasi bagi badan publik yang memberikan ijin dan/atau melakukan perjanjian kerja dengan pihak lain yang kegiatannya berpotensi mengancam hajat hidup orang banyak dan ketertiban umum;<br>
+                          q.Informasi dan kebijakan yang disampaikan Pejabat publik dalam pertemuan yang terbuka untuk umum.<br>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4">Bagian Kelima Informasi yang Dikecualikan</h1>
+             </div>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 20</p> 
+            </div>
+                       (1)Setiap badan publik wajib membuka akses informasi publik bagi setiap pemohon informasi publik, kecuali informasi yang dikecualikan sebagaimana diatur dalam undang-undang Keterbukaan Informasi Publik.<br>
+                       (2)Pengecualian Informasi Publik didasarkan pada pengujian tentang konsekuensi yang timbul apabila suatu informasi diberikan serta setelah dipertimbangkan dengan seksama bahwa menutup Informasi publik dapat melindungi kepentingan yang lebih besar daripada membukanya atau sebaliknya.<br>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4">Paragraf 1 Pengklasifikasian Informasi yang Dikecualikan</h1>
+             </div>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 21</p> 
+            </div>
+                       (1)Pengklasifikasian Informasi ditetapkan oleh PPID di Pemerintah Daerah berdasarkan Pengujian Konsekuensi secara seksama dan penuh ketelitian berdasarkan alasan dalam Pasal 17 Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik sebelum menyatakan Informasi Publik tertentu dikecualikan untuk diakses oleh setiap orang;<br>
+                       (2)Penetapan Pengklasifikasian Informasi sebagaimana dimaksud pada ayat (1), dilakukan atas persetujuan Bupati;<br>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 22</p> 
+            </div>
+                       (1)Pengklasifikasian Informasi sebagaimana dimaksud dalam Pasal 21, ditetapkan dalam bentuk surat penetapan klasifikasi;<br>
+                       (2)Surat penetapan klasifikasi sebagaimana dimaksud pada ayat (1), paling sedikit memuat:<br>
+                          a.Jenis klasifikasi informasi yang dikecualikan;<br>
+                          b.Identitas pejabat PPID yang menetapkan;<br>
+                          c.SKPD, termasuk unit kerja pejabat yang menetapkan;<br>
+                          d.Jangka waktu pengecualian;<br>
+                          e.Alasan pengecualian; dan<br>
+                          f.Tempat dan tanggal penetapan.<br>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4">BAB VII</h1>
+             </div>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4">PEMBIAYAAN</h1>
+             </div>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 23</p> 
+            </div> 
+                       (1)PPID atas persetujuan Bupati dapat mengubah klasifikasi informasi yang dikecualikan.<br>
+                       (2)Pengubahan klasifikasi informasi yang dikecualikan sebagaimana dimaksud pada ayat (1), hanya dapat dilakukan berdasarkan Pengujian Konsekuensi.<br>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4">BAB VIII</h1>
+             </div>
+                       Segala biaya yang diperlukan untuk pengelolaan pelayanan informasi dan dokumentasi di lingkungan Pemerintahan Kabupaten Banyuwangi dibebankan pada Anggaran Pendapatan dan Belanja Daerah Kabupaten Banyuwangi.<br>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h1 class="mb-4">KETENTUAN PENUTUP</h1>
+             </div>
+                <div class="container-xxl py-5">
+            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <p>Pasal 25</p> 
+            </div>
+            Peraturan Bupati ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Banyuwangi.<br>
         </div>
     </div>
     <!-- About End -->
