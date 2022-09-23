@@ -57,17 +57,17 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Daftar Informasi Publik</a>
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
-                        <a href="berkala.html" class="dropdown-item">Daftar Informasi Berkala</a>
-                        <a href="sesaat.html" class="dropdown-item">Daftar Informasi Setiap Saat</a>
-                        <a href="semerta.html" class="dropdown-item">Daftar Informasi Serta Merta</a>
-                        <a href="kecuali.html" class="dropdown-item">Daftar Informasi Dikecualikan</a>
+                        <a href="/berkala" class="dropdown-item">Daftar Informasi Berkala</a>
+                        <a href="/sesaat" class="dropdown-item">Daftar Informasi Setiap Saat</a>
+                        <a href="/semerta" class="dropdown-item">Daftar Informasi Serta Merta</a>
+                        <a href="/kecuali" class="dropdown-item">Daftar Informasi Dikecualikan</a>
                     </div>
                 </div>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pengajuan Permohonan</a>
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
-                        <a href="alur.html" class="dropdown-item">Alur Pelayanan</a>
-                        <a href="pengajuan.html" class="dropdown-item">Permohonan Informasi Publik</a>
+                        <a href="/alur" class="dropdown-item">Alur Pelayanan</a>
+                        <a href="/pengajuan" class="dropdown-item">Permohonan Informasi Publik</a>
                     </div>
                 </div>
             <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Login<i class="fa fa-arrow-right ms-3"></i></a>
