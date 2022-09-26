@@ -85,40 +85,30 @@
                     (2) Informasi yang dikecualikan sebagaimana dimaksud pada ayat (1) ditetapkan lebih lanjut oleh Bupati sesuai dengan kewenangannya;<br>
                     (3) Pemerintah Daerah berhak menolak memberikan informasi publik apabila tidak sesuai dengan Peraturan Perundang - undangan;<br>
                     (4) Informasi yang tidak dapat diberikan oleh Pemerintah Daerah, sebagaimana dimaksud pada ayat (1) adalah :<br>
-                    <P>a. Informasi yang dapat membahayakan negara ;</P>
-                    <P>b. Informasi yang dapat berkaitan dengan kepentingan perlindungan usaha dari persaingan usaha tidak sehat ;</P>
-                    <P>c. Informasi yang berkaitan dengan hak - hak pribadi ;</P>
-                    <P>d. Informasi yang berkaitan dengan rahasia jabatan ; dan/atau</P>
-                    <P>e. Informasi yang belum dikuasai atau didokumentasikan.</P>
-             <div class="container-xxl py-5">
-        <div class="container">
+                     a. Informasi yang dapat membahayakan negara ;<br>
+                     b. Informasi yang dapat berkaitan dengan kepentingan perlindungan usaha dari persaingan usaha tidak sehat ;<br>
+                     c. Informasi yang berkaitan dengan hak - hak pribadi ;<br>
+                     d. Informasi yang berkaitan dengan rahasia jabatan ; dan/atau<br>
+                     e.Informasi yang belum dikuasai atau didokumentasikan.<br>
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 5</p>
              </div>
-                    <P>(1) Pemerintah Daerah wajib menyediakan, memberikan dan / atau menerbitkan informasi publik yang berada dibawah kewenangannya kepada pemohon informasi publik, selain informasi yang dikecualikan sesuai dengan Peraturan Perundang - undangan;</P>
-                    <P>(2) Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1), Pemerintah Daerah membangun dan mengembangkan sistem informasi dan dokumentasi pengelolaan informasi publik yang dapat diakses dengan mudah.</P>
+                    (1) Pemerintah Daerah wajib menyediakan, memberikan dan / atau menerbitkan informasi publik yang berada dibawah kewenangannya kepada pemohon informasi publik, selain informasi yang dikecualikan sesuai dengan Peraturan Perundang - undangan;<br>
+                    (2) Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1), Pemerintah Daerah membangun dan mengembangkan sistem informasi dan dokumentasi pengelolaan informasi publik yang dapat diakses dengan mudah.<br>
              <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">BAB IV</h1>
-             </div>
-             <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4"> PEJABAT PENGELOLA INFORMASI DAN DOKUMENTASI </h1>
-             </div>
-             <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 6</p>
              </div>
-                    <p>(1) Untuk mengelola pelayanan informasi dan dokumentasi di lingkungan Pemerintahan Daerah ditetapkan PPID;</p>
-                    <p>(2) PPID sebagaimana dimaksud pada ayat (1) melekat pada pejabat struktural yang membidangi tugas dan fungsi pelayanan informasi;</p>
-                    <p>(3) PPID ditetapkan oleh Bupati</p>
-             <div class="container-xxl py-5">
+                    (1) Untuk mengelola pelayanan informasi dan dokumentasi di lingkungan Pemerintahan Daerah ditetapkan PPID;<br>
+                    (2) PPID sebagaimana dimaksud pada ayat (1) melekat pada pejabat struktural yang membidangi tugas dan fungsi pelayanan informasi;<br>
+                    (3) PPID ditetapkan oleh Bupati<br>
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 7</p>
              </div>
                     (1)PPID bertanggungjawab kepada Bupati melalui Sekretaris Daerah;<br>
                     (2)PPID dibantu oleh PPID pembantu yang berada di lingkungan SKPD.<br>
-             <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 8</p>
              </div>
@@ -129,7 +119,6 @@
                     d.Melakukan uji konsekuensi atas informasi yang dikecualikan;<br>
                     e.Melakukan pemutakhiran informasi dan dokumentasi ; dan<br>
                     f.Menyediakan informasi dan dokumentasi untuk diakses oleh masyarakat.<br>
-              <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 9</p>
              </div>
@@ -139,7 +128,6 @@
                       c.Mengkoordinasikan pemberian pelayanan informasi dengan PPID Pembantu dan/ atau Pejabat Fungsional yang menjadi cakupan kerjanya;<br>
                       d.Menentukan atau menetapkan suatu informasi dapat/ tidaknya diakses publik;<br>
                       e.Menugaskan PPID Pembantu dan/atau Pejabat Fungsional untuk membuat, mengumpulkan, serta memelihara informasi dan dokumentasi untuk kebutuhan organisasi.<br>
-              <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 10</p>
              </div> 
@@ -149,7 +137,6 @@
                       (2) PPID Pembantu ditetapkan dengan Keputusan Kepala SKPD;<br>
                       (3) PPID Pembantu bertugas membantu PPIDmelaksanakan ketentuan sebagaimana dimaksud dalam Pasal 8 dan Pasal 9;<br>
                       (4) PPID Pembantu menyampaikan informasi dan dokumentasi kepada PPID secara berkala dan sesuai kebutuhan.<br>
-              <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 11</p>
              </div> 
