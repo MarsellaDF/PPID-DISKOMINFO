@@ -59,7 +59,6 @@
                     15. Pengguna Informasi Publik adalah orang yang menggunakan informasi publik sebagaimana diatur dalam ketentuan peraturan perundang-undangan;<br>
                     16. Orang adalah orang perseorangan, kelompok orang, badan hukum, atau badan publik;<br>
                     17. Pemohon Informasi Publik adalah warga negara dan/atau badan hukum Indonesia yang mengajukan permintaan informasi publik sebagaimana diatur dalam ketentuan peraturan perundang-undangan.<br>
-
        <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">BAB II</h1>
@@ -239,7 +238,7 @@
                     <h1 class="mb-4">Bagian Keempat Informasi yang Wajib Tersedia Setiap Saat</h1>
                     <p>Pasal 19</p> 
             </div>
-                       (1)Setiap badan publik wajib menyediakan Informasi Publik setiap saat,kecuali yang dapat ditolak sebagaimana yang telah ditetapkan; dalam ketentuan peraturan perundang-undangan.<b>
+                       (1)Setiap badan publik wajib menyediakan Informasi Publik setiap saat,kecuali yang dapat ditolak sebagaimana yang telah ditetapkan; dalam ketentuan peraturan perundang-undangan.<br>
                        (2)Informasi sebagaimana dimaksud pada ayat (1), terdiri dari :<br>
                           a.Daftar Informasi Publik, yang memuat :<br>
                             1.Nomor;<br>
@@ -279,7 +278,7 @@
             </div>
                        (1)Pengklasifikasian Informasi ditetapkan oleh PPID di Pemerintah Daerah berdasarkan Pengujian Konsekuensi secara seksama dan penuh ketelitian berdasarkan alasan dalam Pasal 17 Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik sebelum menyatakan Informasi Publik tertentu dikecualikan untuk diakses oleh setiap orang;<br>
                        (2)Penetapan Pengklasifikasian Informasi sebagaimana dimaksud pada ayat (1), dilakukan atas persetujuan Bupati;<br>
-                <div class="container-xxl py-5">
+                < class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 22</p> 
             </div>
@@ -311,6 +310,7 @@
             </div>
             Peraturan Bupati ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Banyuwangi.<br>
         </div>
-    </div>
+        </div>
+        </div>
 
 @stop

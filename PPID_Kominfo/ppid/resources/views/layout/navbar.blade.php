@@ -27,10 +27,10 @@
                     <small>(0333) 422400</small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center">
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href=""><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href=""><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href=""><i class="fab fa-linkedin-in"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-0" href=""><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href="https://diskominfo.banyuwangikab.go.id/"><i class="fa fa-link"></i></a>
+                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href="https://www.facebook.com/people/Diskominfo-Banyuwangi/100072323211413/"><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href="https://twitter.com/kominfosandibwi"><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-0" href="https://instagram.com/kominfobanyuwangi?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
                 </div>
             </div>
         </div>
@@ -43,7 +43,6 @@
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="/" class="nav-item nav-link active">Beranda</a>
                 <div class="nav-item dropdown">
@@ -64,13 +63,15 @@
                     </div>
                 </div>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pengajuan Permohonan</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Layanan Informasi</a>
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
-                        <a href="/alur" class="dropdown-item">Alur Pelayanan</a>
-                        <a href="/pengajuan" class="dropdown-item">Permohonan Informasi Publik</a>
+                        <a href="/langsung" class="dropdown-item">Permohonan Informasi Datang Langsung</a>
+                        <a href="/permohonan" class="dropdown-item">Alur Permohonan Informasi</a>
+                        <a href="/keberatan" class="dropdown-item">Alur Pengajuan Keberatan</a>
+                        <a href="/laporan" class="dropdown-item">Laporan</a>
                     </div>
                 </div>
-            <a href="" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Login<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="/login" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Login<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
     <!-- Navbar End -->
