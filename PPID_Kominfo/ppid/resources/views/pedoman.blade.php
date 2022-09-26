@@ -144,13 +144,7 @@
               <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">BAB V</h1>
-             </div>
-             <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4"> PEMOHON INFORMASI DAN DOKUMENTASI </h1>
-             </div>
-             <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 12</p>
              </div>
                       Pemohon informasi dan dokumentasi meliputi:<br>
@@ -160,7 +154,6 @@
                       d.Organisasi masyarakat;<br>
                       e.Partai Politik ; atau<br>
                       f.Badan Publik lainnya.<br>
-              <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 13</p>
              </div>
@@ -172,17 +165,8 @@
               <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">BAB VI</h1>
-             </div>
-             <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4"> KLASIFIKASI INFORMASI PUBLIK </h1>
-             </div>
-             <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4"> Bagian Kesatu Umum</h1>
-             </div>
-             <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 14</p> 
              </div>
                       Informasi publik di lingkungan Pemerintah Daerah merupakan informasi yang dihasilkan, disimpan, dikelola, dikirim, atau diterima, yang berkaitan dengan kegiatan penyelenggaraan pemerintahan di Daerah.<br>
@@ -198,9 +182,6 @@
               <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4"> Bagian Kedua Informasi yang Wajib Disediakan dan Diumumkan secara Berkala</h1>
-             </div>
-             <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 16</p> 
             </div>
                       (1)Informasi yang wajib disediakan dan diumumkan secara berkala, sekurang-kurangnya terdiri atas :<br>
@@ -231,9 +212,6 @@
                 <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4"> Bagian Ketiga Informasi yang Wajib Diumumkan secara Serta Merta</h1>
-             </div>
-               <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 17</p>
              </div>
                        (1)Setiap Badan Publik wajib mengumumkan secara serta merta, yaitu suatu informasi yang dapat mengancam hajat hidup orang banyak dan ketertiban umum antara lain :<br>
@@ -244,7 +222,6 @@
                           e.Informasi tentang racun pada bahan makanan yang dikonsumsi oleh masyarakat; atau<br>
                           f.Informasi tentang rencana gangguan terhadap putilitas publik.<br>
                        (2)Pengumuman informasi sebagaimana dimaksud pada ayat (1), disampaikan dengan bahasa yang sederhana, mudah dimengerti dan dipahami oleh masyarakat.<br>
-               <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 18</p>
              </div>   
@@ -260,9 +237,6 @@
                 <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">Bagian Keempat Informasi yang Wajib Tersedia Setiap Saat</h1>
-             </div>
-                <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 19</p> 
             </div>
                        (1)Setiap badan publik wajib menyediakan Informasi Publik setiap saat,kecuali yang dapat ditolak sebagaimana yang telah ditetapkan; dalam ketentuan peraturan perundang-undangan.<b>
@@ -294,9 +268,6 @@
                 <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">Bagian Kelima Informasi yang Dikecualikan</h1>
-             </div>
-                <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 20</p> 
             </div>
                        (1)Setiap badan publik wajib membuka akses informasi publik bagi setiap pemohon informasi publik, kecuali informasi yang dikecualikan sebagaimana diatur dalam undang-undang Keterbukaan Informasi Publik.<br>
@@ -304,9 +275,6 @@
                 <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">Paragraf 1 Pengklasifikasian Informasi yang Dikecualikan</h1>
-             </div>
-                <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 21</p> 
             </div>
                        (1)Pengklasifikasian Informasi ditetapkan oleh PPID di Pemerintah Daerah berdasarkan Pengujian Konsekuensi secara seksama dan penuh ketelitian berdasarkan alasan dalam Pasal 17 Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik sebelum menyatakan Informasi Publik tertentu dikecualikan untuk diakses oleh setiap orang;<br>
@@ -326,13 +294,7 @@
                 <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">BAB VII</h1>
-             </div>
-                <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">PEMBIAYAAN</h1>
-             </div>
-                <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 23</p> 
             </div> 
                        (1)PPID atas persetujuan Bupati dapat mengubah klasifikasi informasi yang dikecualikan.<br>
@@ -345,9 +307,6 @@
                 <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">KETENTUAN PENUTUP</h1>
-             </div>
-                <div class="container-xxl py-5">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 25</p> 
             </div>
             Peraturan Bupati ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Banyuwangi.<br>
