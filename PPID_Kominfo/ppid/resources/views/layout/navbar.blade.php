@@ -50,6 +50,7 @@
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
                         <a href="/pedoman" class="dropdown-item">Pedoman</a>
                         <a href="/dashum" class="dropdown-item">Dasar Hukum Pembentukan</a>
+                        <a href="https://diskominfo.banyuwangikab.go.id/themes/okok/doc/SK123.pdf" class="dropdown-item">SK Pembentukan</a>
                         <a href="/sop" class="dropdown-item">Standar Operasional Prosedur</a>
                     </div>
                 </div>
