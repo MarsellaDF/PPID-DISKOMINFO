@@ -5,7 +5,7 @@
 @section('content')
 
     <!-- Header Start -->
-    <div class="container-fluid header bg-primary p-0 mb-5">
+    <!-- <div class="container-fluid header bg-primary p-0 mb-5">
         <div class="row g-0 align-items-center flex-column-reverse flex-lg-row">
             <div class="col-lg-6 p-5 wow fadeOut" data-wow-delay="0.1s">
                 <h1 class="display-4 text-white mb-5">Selamat Datang di PPID Diskominfo Banyuwangi</h1>
@@ -42,7 +42,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Header End -->
 
 
@@ -56,8 +56,15 @@
                         <img class="img-fluid rounded w-50 bg-white pt-3 pe-3" src="/assets/template/img/about-2.jpg" alt="" style="margin-top: -25%;">
                     </div>
                 </div> -->
-                <div class="col-lg-12 wow fadeIn" data-wow-delay="0.5s">
-                    <h1 class="mb-4">Latar Belakang</h1>
+                <div class="container-xxl py-5">
+                <div class="text-center mx-auto mb-5">
+                    <h1 class="mb-4">ALUR PERMOHONAN INFORMASI</h1>
+                    <img class="img-fluid rounded w-500 align-self-end" src="/assets/template/img/Alur permohonan informasi.png" ><br></br>
+                    </div>
+            </div>
+        </div>
+    </div>
+                    <!-- <h1 class="mb-4">ALUR PERMOHONAN INFORMASI</h1>
                     <p>Reformasi yang bergulir pada tahun 1998 yang ditandai dengan 3(tiga) tuntutan yaitu; demokratisasi, tranparasi dan supremasi hukum & HAM, telah membawa perubahan mendasar dalam kehidupan bermasyarakat, berbangsa dan benegara. Konsekuensi dari tuntutan reformasi tersebut salah satu diantaranya adalah ditetapkannya UU N0.14 tahun 2008 tentang Keterbukaan Informasi Publik yang bertujuan untuk mewujudkan tata kelola pemerintahan yang baik dan bertanggungjawab (good governance) melalui penerapan prinsip-prinsip akuntabilitas, transparansi dan supremasi hukum serta melibatkan partisipasi masyarakat dalam setiap proses kebijakan publik.</p>
                     <p class="mb-4">Dalam proses keterlibatan masyarakat perlu diakomodasikan dengan cara mempermudah jaminan akses informasi publik berdasarkan pedoman pengelolaan informasi dan dokumentasi. Dalam kaitan ini, pengelolaan informasi dan dokumentasi publik diharapkan tidak sampai mengganggu prinsip kehati-hatian dalam menjaga kelangsungan kehidupan berbangsa dan bernegara untuk kepentingan yang lebih luas.</p>
                     <p class="mb-4">Penerapan prinsip-prinsip good governance ini pada dasarnya sangat tergantung pada persiapan masing-masing Kementerian Komunikasi dan Informatika dalam mengelola informasi dan dokumentasi bagi masyarakat. Untuk itu, sebagai upaya menyamakan persepsi dalam menciptakan dan menjamin kelancaraan dalam pelayanan informasi publik, maka disusun Pedoman Pengelolaan Informasi dan Dokumentasi di lingkungan Kementerian Komunikasi dan Informatika.</p>
@@ -67,7 +74,7 @@
                     <p>a. Masing-masing Satuan Kerja mampu menyediakan, mengumpulkan, mendokumentasikan dan menyampaikan informasi tentang kegiatan dan produk unit kerjanya secara akurat dan tidak menyesatkan;<br>
                         b. Satuan Kerja mampu menyediakan, mengumpulkan, mendokumentasikan dan menyampaikan bahan dan produk informasi secara cepat dan tepat waktu;<br>
                         c. Pejabat Pengelola Informasi dan Dokumentasi mampu memberikan pelayanan informasi secara cepat dan tepat waktu dengan biaya ringan dan cara sederhana.</p>
-                </div>
+                </div> -->
             <!-- </div>
         </div>
     </div> -->
@@ -217,7 +224,7 @@
 
 
     <!-- Team Start -->
-    <div class="container-xxl py-5">
+    <!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="d-inline-block border rounded-pill py-1 px-4">Doctors</p>
@@ -290,7 +297,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Team End -->
 
 
@@ -373,7 +380,7 @@
 
 
     <!-- Testimonial Start -->
-    <div class="container-xxl py-5">
+    <!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="d-inline-block border rounded-pill py-1 px-4">Testimonial</p>
@@ -406,7 +413,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Testimonial End -->
 
 @stop
