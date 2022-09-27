@@ -5,50 +5,61 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Elegant Dashboard | Sign Up</title>
+  <title>PPID DISKOMINFO KABUPATEN BANYUWANGI</title>
   <!-- Favicon -->
-  <link rel="shortcut icon" href="./img/svg/logo.svg" type="image/x-icon">
+  <link rel="shortcut icon" href="/assets/auth/img/svg/logo.svg" type="image/x-icon">
   <!-- Custom styles -->
-  <link rel="stylesheet" href="./css/style.min.css">
+  <link rel="stylesheet" href="/assets/auth/css/style.min.css">
 </head>
 
 <body>
   <div class="layer"></div>
 <main class="page-center">
   <article class="sign-up">
-    <h1 class="sign-up__title">Get started</h1>
-    <p class="sign-up__subtitle">Start creating the best possible user experience for you customers</p>
+    <h1 class="sign-up__title">REGISTER</h1>
     <form class="sign-up-form form" action="" method="">
       <label class="form-label-wrapper">
-        <p class="form-label">Name</p>
-        <input class="form-input" type="text" placeholder="Enter your name" required>
+        <p class="form-label">Nomor Induk Kependudukan (NIK)</p>
+        <input class="form-input" type="number" placeholder="Masukkan NIK Anda" required>
       </label>
       <label class="form-label-wrapper">
-        <p class="form-label">Team</p>
-        <input class="form-input" type="email" placeholder="Enter your Team name" required>
+        <p class="form-label">Nama</p>
+        <input class="form-input" type="text" placeholder="Masukkan Nama Lengkap anda" required>
+      </label>
+      <label class="form-label-wrapper">
+        <p class="form-label">Alamat</p>
+        <input class="form-input" type="text" placeholder="Masukkan Alamat Lengkap Anda" required>
+      </label>
+      <label class="form-label-wrapper">
+        <p class="form-label">Nomor Telepon</p>
+        <input class="form-input" type="tel" placeholder="Masukkan Nomor Telepon Anda" required>
+      </label>
+      <label class="form-label-wrapper">
+        <p class="form-label">Pekerjaan</p>
+        <input class="form-input" type="text" placeholder="Masukkan Pekerjaan Anda" required>
       </label>
       <label class="form-label-wrapper">
         <p class="form-label">Email</p>
-        <input class="form-input" type="email" placeholder="Enter your email" required>
+        <input class="form-input" type="email" placeholder="Masukkan Email" required>
       </label>
       <label class="form-label-wrapper">
         <p class="form-label">Password</p>
-        <input class="form-input" type="password" placeholder="Enter your password" required>
+        <input class="form-input" type="password" placeholder="Masukkan Password" required>
       </label>
       <label class="form-checkbox-wrapper">
         <input class="form-checkbox" type="checkbox" required>
-        <span class="form-checkbox-label">Remember me next time</span>
+        <span class="form-checkbox-label">Ingatkan Saya</span>
       </label>
-      <button class="form-btn primary-default-btn transparent-btn">Sign in</button>
+      <button class="form-btn primary-default-btn transparent-btn">SIGN UP</button>
     </form>
   </article>
 </main>
 <!-- Chart library -->
-<script src="./plugins/chart.min.js"></script>
+<script src="/assets/auth/plugins/chart.min.js"></script>
 <!-- Icons library -->
-<script src="plugins/feather.min.js"></script>
+<script src="/assets/auth/plugins/feather.min.js"></script>
 <!-- Custom scripts -->
-<script src="js/script.js"></script>
+<script src="/assets/auth/js/script.js"></script>
 </body>
 
 </html>

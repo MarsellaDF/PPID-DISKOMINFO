@@ -5,11 +5,11 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Elegant Dashboard | Dashboard</title>
+  <title>PPID DISKOMINFO KABUPATEN BANYUWANGI</title>
   <!-- Favicon -->
-  <link rel="shortcut icon" href="./img/svg/logo.svg" type="image/x-icon">
+  <link rel="shortcut icon" href="/assets/auth/img/svg/logo.svg" type="image/x-icon">
   <!-- Custom styles -->
-  <link rel="stylesheet" href="./css/style.min.css">
+  <link rel="stylesheet" href="/assets/auth/css/style.min.css">
 </head>
 
 <body>
@@ -161,7 +161,7 @@
     <div class="sidebar-footer">
         <a href="##" class="sidebar-user">
             <span class="sidebar-user-img">
-                <picture><source srcset="./img/avatar/avatar-illustrated-01.webp" type="image/webp"><img src="./img/avatar/avatar-illustrated-01.png" alt="User name"></picture>
+                <picture><source srcset="/assets/auth/img/avatar/avatar-illustrated-01.webp" type="image/webp"><img src="/assets/auth/img/avatar/avatar-illustrated-01.png" alt="User name"></picture>
             </span>
             <div class="sidebar-user-info">
                 <span class="sidebar-user__title">Nafisa Sh.</span>
@@ -251,7 +251,7 @@
         <button href="##" class="nav-user-btn dropdown-btn" title="My profile" type="button">
           <span class="sr-only">My profile</span>
           <span class="nav-user-img">
-            <picture><source srcset="./img/avatar/avatar-illustrated-02.webp" type="image/webp"><img src="./img/avatar/avatar-illustrated-02.png" alt="User name"></picture>
+            <picture><source srcset="/assets/auth/img/avatar/avatar-illustrated-02.webp" type="image/webp"><img src="/assets/auth/img/avatar/avatar-illustrated-02.png" alt="User name"></picture>
           </span>
         </button>
         <ul class="users-item-dropdown nav-user-dropdown dropdown">
@@ -373,7 +373,7 @@
                       <label class="users-table__checkbox">
                         <input type="checkbox" class="check">
                         <div class="categories-table-img">
-                          <picture><source srcset="./img/categories/01.webp" type="image/webp"><img src="./img/categories/01.jpg" alt="category"></picture>
+                          <picture><source srcset="/assets/auth/img/categories/01.webp" type="image/webp"><img src="/assets/auth/img/categories/01.jpg" alt="category"></picture>
                         </div>
                       </label>
                     </td>
@@ -382,7 +382,7 @@
                     </td>
                     <td>
                       <div class="pages-table-img">
-                        <picture><source srcset="./img/avatar/avatar-face-04.webp" type="image/webp"><img src="./img/avatar/avatar-face-04.png" alt="User Name"></picture>
+                        <picture><source srcset="/assets/auth/img/avatar/avatar-face-04.webp" type="image/webp"><img src="/assets/auth/img/avatar/avatar-face-04.png" alt="User Name"></picture>
                         Jenny Wilson
                       </div>
                     </td>
@@ -416,7 +416,7 @@
                     </td>
                     <td>
                       <div class="pages-table-img">
-                        <picture><source srcset="./img/avatar/avatar-face-03.webp" type="image/webp"><img src="./img/avatar/avatar-face-03.png" alt="User Name"></picture>
+                        <picture><source srcset="/assets/auth/img/avatar/avatar-face-03.webp" type="image/webp"><img src="/assets/auth/img/avatar/avatar-face-03.png" alt="User Name"></picture>
                         Annette Black
                       </div>
                     </td>
@@ -441,7 +441,7 @@
                       <label class="users-table__checkbox">
                         <input type="checkbox" class="check">
                         <div class="categories-table-img">
-                          <picture><source srcset="./img/categories/03.webp" type="image/webp"><img src="./img/categories/03.jpg" alt="category"></picture>
+                          <picture><source srcset="./img/categories/03.webp" type="image/webp"><img src="/assets/auth/img/categories/03.jpg" alt="category"></picture>
                         </div>
                       </label>
                     </td>
@@ -450,7 +450,7 @@
                     </td>
                     <td>
                       <div class="pages-table-img">
-                        <picture><source srcset="./img/avatar/avatar-face-02.webp" type="image/webp"><img src="./img/avatar/avatar-face-02.png" alt="User Name"></picture>
+                        <picture><source srcset="./img/avatar/avatar-face-02.webp" type="image/webp"><img src="/assets/auth/img/avatar/avatar-face-02.png" alt="User Name"></picture>
                         Kathryn Murphy
                       </div>
                     </td>
@@ -475,7 +475,7 @@
                       <label class="users-table__checkbox">
                         <input type="checkbox" class="check">
                         <div class="categories-table-img">
-                          <picture><source srcset="./img/categories/04.webp" type="image/webp"><img src="./img/categories/04.jpg" alt="category"></picture>
+                          <picture><source srcset="/assets/auth/img/categories/04.webp" type="image/webp"><img src="/assets/auth/img/categories/04.jpg" alt="category"></picture>
                         </div>
                       </label>
                     </td>
@@ -484,7 +484,7 @@
                     </td>
                     <td>
                       <div class="pages-table-img">
-                        <picture><source srcset="./img/avatar/avatar-face-05.webp" type="image/webp"><img src="./img/avatar/avatar-face-05.png" alt="User Name"></picture>
+                        <picture><source srcset="/assets/auth/img/avatar/avatar-face-05.webp" type="image/webp"><img src="/assets/auth/img/avatar/avatar-face-05.png" alt="User Name"></picture>
                         Guy Hawkins
                       </div>
                     </td>
@@ -509,7 +509,7 @@
                       <label class="users-table__checkbox">
                         <input type="checkbox" class="check">
                         <div class="categories-table-img">
-                          <picture><source srcset="./img/categories/01.webp" type="image/webp"><img src="./img/categories/01.jpg" alt="category"></picture>
+                          <picture><source srcset="/assets/auth/img/categories/01.webp" type="image/webp"><img src="/assets/auth/img/categories/01.jpg" alt="category"></picture>
                         </div>
                       </label>
                     </td>
@@ -518,7 +518,7 @@
                     </td>
                     <td>
                       <div class="pages-table-img">
-                        <picture><source srcset="./img/avatar/avatar-face-03.webp" type="image/webp"><img src="./img/avatar/avatar-face-03.png" alt="User Name"></picture>
+                        <picture><source srcset="/assets/auth/img/avatar/avatar-face-03.webp" type="image/webp"><img src="/assets/auth/img/avatar/avatar-face-03.png" alt="User Name"></picture>
                         Robert Fox
                       </div>
                     </td>
@@ -543,7 +543,7 @@
                       <label class="users-table__checkbox">
                         <input type="checkbox" class="check">
                         <div class="categories-table-img">
-                          <picture><source srcset="./img/categories/03.webp" type="image/webp"><img src="./img/categories/03.jpg" alt="category"></picture>
+                          <picture><source srcset="/assets/auth/img/categories/03.webp" type="image/webp"><img src="/assets/auth/img/categories/03.jpg" alt="category"></picture>
                         </div>
                       </label>
                     </td>
@@ -552,7 +552,7 @@
                     </td>
                     <td>
                       <div class="pages-table-img">
-                        <picture><source srcset="./img/avatar/avatar-face-03.webp" type="image/webp"><img src="./img/avatar/avatar-face-03.png" alt="User Name"></picture>
+                        <picture><source srcset="/assets/auth/img/avatar/avatar-face-03.webp" type="image/webp"><img src="/assets/auth/img/avatar/avatar-face-03.png" alt="User Name"></picture>
                         Robert Fox
                       </div>
                     </td>

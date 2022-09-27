@@ -1,4 +1,10 @@
-         <div class="container-xxl py-5">
+<!-- memanggil badan -> file layout.blade.php -->
+@extends('layout')
+
+<!-- mengisi badan content dengan isi di bawah section-->
+@section('content')
+
+<div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h1 class="mb-4">Permohonan Informasi Datang Langsung</h1>
                     <h1 class="mb-4">MEKANISME PERMOHONAN INFORMASI PUBLIK </h1>
@@ -16,4 +22,5 @@
              2. Waktu penyelesaian dilaksanakan paling lambat 10 (sepuluh ) hari sejak diterima permintaan Pejabat Pengelola Informasi dan Dokumentasi (PPID) akan menyampaikan pemberitahuan yang berisikan informasi yang diminta berada dibawah penguasaannya atau tidak. Dan PPID dapat memperpanjang waktu paling lambat 14 (empat belas) hari kerja.<br>
              3. Penyampaian/pendistribusian/penyerahan informasi publik kepada pemohon informasi publik dilakukan secara langsung, dengan menandatangani berita acara penerimaan informasi publik.<br>
              4. Jika permohonan informasi diterima, maka dalam surat pemberitahuan juga dicantumkan materi informasi yang diberikan, format informasi, apakah dalam bentuk softcopy atau data tertulis. Apabila dibutuhkan untuk keperluan penggandaan menjadi tanggung jawab atau beban pemohon informasi. Bila permintaan informasi ditolak, maka dalam surat pemberitahuan dicantumkan alasan penolakan.<br>
-             
+
+@stop
