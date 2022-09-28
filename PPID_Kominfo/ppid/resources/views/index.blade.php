@@ -10,7 +10,7 @@
             <div class="col-lg-6 p-5 wow fadeOut" data-wow-delay="0.1s">
                 <h2 class="display-4 text-white mb-5">Selamat Datang di PPID Diskominfo Banyuwangi</h2>
                 <a href="/login" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Pengajuan Permohonan Online >>>></a>
-                <div class="row g-4">
+                <!-- <div class="row g-4">
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
                             <h2 class="text-white mb-1" data-toggle="counter-up">123</h2>
@@ -29,7 +29,7 @@
                             <p class="text-light mb-0">Total Patients</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="col-lg-6 wow fadeOut" data-wow-delay="0.5s">
                 <div class="owl-carousel header-carousel">
