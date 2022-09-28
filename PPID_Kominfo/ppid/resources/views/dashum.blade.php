@@ -7,7 +7,7 @@
 <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                    <h1 class="mb-4">DASAR HUKUM PEMBENTUKAN</h1>
+                    <h3 class="mb-4">DASAR HUKUM PEMBENTUKAN</h3>
              </div> 
                     <p>I. PERATURAN YANG MENDASARI PEMBENTUKAN PPID:</p>
                 <div class="text-justify mx-auto mb-2" style="text-indent: 50px">

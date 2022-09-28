@@ -6,7 +6,7 @@
 
         <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h1 class="mb-4">Standar Operasional Prosedur</h1>
+                    <h3 class="mb-4">Standar Operasional Prosedur</h3>
              </div> 
                     <i class="text-primary me-3"></i>A1 . SOP PERMOHONAN INFORMASI PUBLIK<br></br>
                     <img class="img-fluid rounded w-500 align-self-end" src="/assets/template/img/a1.jpeg" ><br></br>
