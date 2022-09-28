@@ -278,7 +278,7 @@
             </div>
                        (1)Pengklasifikasian Informasi ditetapkan oleh PPID di Pemerintah Daerah berdasarkan Pengujian Konsekuensi secara seksama dan penuh ketelitian berdasarkan alasan dalam Pasal 17 Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik sebelum menyatakan Informasi Publik tertentu dikecualikan untuk diakses oleh setiap orang;<br>
                        (2)Penetapan Pengklasifikasian Informasi sebagaimana dimaksud pada ayat (1), dilakukan atas persetujuan Bupati;<br>
-                < class="container-xxl py-5">
+                <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 22</p> 
             </div>
@@ -292,20 +292,21 @@
                           f.Tempat dan tanggal penetapan.<br>
                 <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h1 class="mb-4">BAB VII</h1>
-                    <h1 class="mb-4">PEMBIAYAAN</h1>
                     <p>Pasal 23</p> 
             </div> 
                        (1)PPID atas persetujuan Bupati dapat mengubah klasifikasi informasi yang dikecualikan.<br>
                        (2)Pengubahan klasifikasi informasi yang dikecualikan sebagaimana dimaksud pada ayat (1), hanya dapat dilakukan berdasarkan Pengujian Konsekuensi.<br>
                 <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h1 class="mb-4">BAB VIII</h1>
+                <h1 class="mb-4">BAB VII</h1>
+                <h1 class="mb-4">PEMBIAYAAN</h1>
+                <p>Pasal 24</p>
              </div>
                        Segala biaya yang diperlukan untuk pengelolaan pelayanan informasi dan dokumentasi di lingkungan Pemerintahan Kabupaten Banyuwangi dibebankan pada Anggaran Pendapatan dan Belanja Daerah Kabupaten Banyuwangi.<br>
                 <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h1 class="mb-4">KETENTUAN PENUTUP</h1>
+                <h1 class="mb-4">BAB VIII</h1>       
+                <h1 class="mb-4">KETENTUAN PENUTUP</h1>
                     <p>Pasal 25</p> 
             </div>
             Peraturan Bupati ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Banyuwangi.<br>
