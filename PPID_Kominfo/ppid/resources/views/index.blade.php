@@ -8,7 +8,7 @@
     <div class="container-fluid header bg-primary p-0 mb-5">
         <div class="row g-0 align-items-center flex-column-reverse flex-lg-row">
             <div class="col-lg-6 p-5 wow fadeOut" data-wow-delay="0.1s">
-                <h2 class="display-4 text-white mb-5">Selamat Datang di PPID Diskominfo Banyuwangi</h2>
+                <h2 class="display-4 text-white mb-5">PPID Dinas Kominfo Kab Banyuwangi</h2>
                 <a href="/login" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Pengajuan Permohonan Online >>>></a>
                 <!-- <div class="row g-4">
                     <div class="col-sm-4">

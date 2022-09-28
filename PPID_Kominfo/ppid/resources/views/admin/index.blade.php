@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>PPID DISKOMINFO KABUPATEN BANYUWANGI</title>
   <!-- Favicon -->
-  <link rel="shortcut icon" href="/assets/auth/img/svg/logo.svg" type="image/x-icon">
+  <link rel="shortcut icon" href="/assets/template/img/logo.png" type="image/x-icon">
   <!-- Custom styles -->
   <link rel="stylesheet" href="/assets/auth/css/style.min.css">
 </head>
@@ -21,7 +21,7 @@
   <aside class="sidebar">
     <div class="sidebar-start">
         <div class="sidebar-head">
-            <a href="/" class="logo-wrapper" title="Home">
+            <a href="##" class="logo-wrapper" title="Home">
                 <span class="sr-only">Home</span>
                 <span class="icon logo" aria-hidden="true"></span>
                 <div class="logo-text">
@@ -38,7 +38,7 @@
         <div class="sidebar-body">
             <ul class="sidebar-body-menu">
                 <li>
-                    <a class="active" href="/"><span class="icon home" aria-hidden="true"></span>Dashboard</a>
+                    <a class="active" href="##"><span class="icon home" aria-hidden="true"></span>Dashboard</a>
                 </li>
                 <li>
                     <a class="show-cat-btn" href="##">
@@ -109,6 +109,9 @@
             </ul>
             <span class="system-menu__title">system</span>
             <ul class="sidebar-body-menu">
+                <li>
+                    <a href="register.html"><span class="icon user-3" aria-hidden="true"></span>Register</a>
+                </li>
                 <li>
                     <a href="appearance.html"><span class="icon edit" aria-hidden="true"></span>Appearance</a>
                 </li>
@@ -246,7 +249,7 @@
               <i data-feather="settings" aria-hidden="true"></i>
               <span>Account settings</span>
             </a></li>
-          <li><a class="danger" href="##">
+          <li><a class="danger" href="/login">
               <i data-feather="log-out" aria-hidden="true"></i>
               <span>Log out</span>
             </a></li>
