@@ -13,6 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+// URL ROUTE ADMIN
+Route::resource('admin-banner', App\Http\Controllers\Backend\BannerController::class);
+
 Route::get('/','App\Http\Controllers\HomeController@index');
 Route::resource('pedoman',App\Http\Controllers\PedomanController::class);
 Route::resource('dashum',App\Http\Controllers\DashumController::class);
