@@ -28,3 +28,4 @@ Route::resource('laporan',App\Http\Controllers\LaporanController::class);
 Route::resource('login',App\Http\Controllers\LoginController::class);
 Route::resource('register',App\Http\Controllers\RegisterController::class);
 Route::resource('admin',App\Http\Controllers\AdminController::class);
+Route::resource('permohonan_online',App\Http\Controllers\PermohonanOnlineController::class);

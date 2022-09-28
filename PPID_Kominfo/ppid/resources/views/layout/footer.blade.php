@@ -16,7 +16,6 @@
                         <a class="btn btn-outline-light btn-social rounded-circle" href=""><i class="fab fa-youtube"></i></a>
                         <a class="btn btn-outline-light btn-social rounded-circle" href=""><i class="fab fa-linkedin-in"></i></a>
                     </div> -->
-                </div>
                 <!-- <div class="col-lg-3 col-md-6">
                     <h5 class="text-light mb-4">Services</h5>
                     <a class="btn btn-link" href="">Cardiology</a>
@@ -40,6 +39,12 @@
                         <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Your email">
                         <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">SignUp</button>
                     </div> -->
+                    </div>
+                    <div class="col-lg-3s col-md-6">
+                    <h5 class="text-light mb-4">Peta Lokasi</h5>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15795.148264002619!2d114.3560427!3d-8.2241564!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd15ab50b1c7791%3A0xb3c98689e07581b1!2sDinas%20Komunikasi%20Informatika%20dan%20Persandian%20Kabupaten%20Banyuwangi!5e0!3m2!1sid!2sid!4v1664339150480!5m2!1sid!2sid"
+                        width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
                 </div>
             </div>
         </div>

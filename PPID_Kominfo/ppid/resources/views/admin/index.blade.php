@@ -42,7 +42,7 @@
                 </li>
                 <li>
                     <a class="show-cat-btn" href="##">
-                        <span class="icon document" aria-hidden="true"></span>Posts
+                        <span class="icon document" aria-hidden="true"></span>Menu PPID
                         <span class="category__btn transparent-btn" title="Open list">
                             <span class="sr-only">Open list</span>
                             <span class="icon arrow-down" aria-hidden="true"></span>
@@ -50,16 +50,19 @@
                     </a>
                     <ul class="cat-sub-menu">
                         <li>
-                            <a href="posts.html">All Posts</a>
+                            <a href="posts.html">Pedoman</a>
                         </li>
                         <li>
-                            <a href="new-post.html">Add new post</a>
+                            <a href="new-post.html">DasHum Pembentukan</a>
+                        </li>
+                        <li>
+                            <a href="new-post.html">SOP</a>
                         </li>
                     </ul>
                 </li>
                 <li>
                     <a class="show-cat-btn" href="##">
-                        <span class="icon folder" aria-hidden="true"></span>Categories
+                        <span class="icon paper" aria-hidden="true"></span>DIP
                         <span class="category__btn transparent-btn" title="Open list">
                             <span class="sr-only">Open list</span>
                             <span class="icon arrow-down" aria-hidden="true"></span>
@@ -67,13 +70,22 @@
                     </a>
                     <ul class="cat-sub-menu">
                         <li>
-                            <a href="categories.html">All categories</a>
+                            <a href="pages.html">Berkala</a>
+                        </li>
+                        <li>
+                            <a href="new-page.html">Setiap Saat</a>
+                        </li>
+                        <li>
+                            <a href="new-page.html">Serta Merta</a>
+                        </li>
+                        <li>
+                            <a href="new-page.html">Dikecualikan</a>
                         </li>
                     </ul>
                 </li>
                 <li>
                     <a class="show-cat-btn" href="##">
-                        <span class="icon image" aria-hidden="true"></span>Media
+                        <span class="icon image" aria-hidden="true"></span>Layanan Informasi
                         <span class="category__btn transparent-btn" title="Open list">
                             <span class="sr-only">Open list</span>
                             <span class="icon arrow-down" aria-hidden="true"></span>
@@ -81,36 +93,18 @@
                     </a>
                     <ul class="cat-sub-menu">
                         <li>
-                            <a href="media-01.html">Media-01</a>
+                            <a href="media-01.html">Datang Langsung</a>
                         </li>
                         <li>
-                            <a href="media-02.html">Media-02</a>
+                            <a href="media-02.html">Permohonan</a>
+                        </li>
+                        <li>
+                            <a href="media-02.html">Keberatan</a>
+                        </li>
+                        <li>
+                            <a href="media-02.html">Laporan</a>
                         </li>
                     </ul>
-                </li>
-                <li>
-                    <a class="show-cat-btn" href="##">
-                        <span class="icon paper" aria-hidden="true"></span>Pages
-                        <span class="category__btn transparent-btn" title="Open list">
-                            <span class="sr-only">Open list</span>
-                            <span class="icon arrow-down" aria-hidden="true"></span>
-                        </span>
-                    </a>
-                    <ul class="cat-sub-menu">
-                        <li>
-                            <a href="pages.html">All pages</a>
-                        </li>
-                        <li>
-                            <a href="new-page.html">Add new page</a>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="comments.html">
-                        <span class="icon message" aria-hidden="true"></span>
-                        Comments
-                    </a>
-                    <span class="msg-counter">7</span>
                 </li>
             </ul>
             <span class="system-menu__title">system</span>
@@ -185,17 +179,6 @@
         <span class="sr-only">Toggle menu</span>
         <span class="icon menu-toggle--gray" aria-hidden="true"></span>
       </button>
-      <div class="lang-switcher-wrapper">
-        <button class="lang-switcher transparent-btn" type="button">
-          EN
-          <i data-feather="chevron-down" aria-hidden="true"></i>
-        </button>
-        <ul class="lang-menu dropdown">
-          <li><a href="##">English</a></li>
-          <li><a href="##">French</a></li>
-          <li><a href="##">Uzbek</a></li>
-        </ul>
-      </div>
       <button class="theme-switcher gray-circle-btn" type="button" title="Switch theme">
         <span class="sr-only">Switch theme</span>
         <i class="sun-icon" data-feather="sun" aria-hidden="true"></i>
@@ -407,7 +390,7 @@
                       <label class="users-table__checkbox">
                         <input type="checkbox" class="check">
                         <div class="categories-table-img">
-                          <picture><source srcset="./img/categories/02.webp" type="image/webp"><img src="./img/categories/02.jpg" alt="category"></picture>
+                          <picture><source srcset="/assets/auth/img/categories/02.webp" type="image/webp"><img src="/assets/auth/img/categories/02.jpg" alt="category"></picture>
                         </div>
                       </label>
                     </td>
@@ -441,7 +424,7 @@
                       <label class="users-table__checkbox">
                         <input type="checkbox" class="check">
                         <div class="categories-table-img">
-                          <picture><source srcset="./img/categories/03.webp" type="image/webp"><img src="/assets/auth/img/categories/03.jpg" alt="category"></picture>
+                          <picture><source srcset="/assets/auth/img/categories/03.webp" type="image/webp"><img src="/assets/auth/img/categories/03.jpg" alt="category"></picture>
                         </div>
                       </label>
                     </td>
@@ -450,7 +433,7 @@
                     </td>
                     <td>
                       <div class="pages-table-img">
-                        <picture><source srcset="./img/avatar/avatar-face-02.webp" type="image/webp"><img src="/assets/auth/img/avatar/avatar-face-02.png" alt="User Name"></picture>
+                        <picture><source srcset="/assets/auth/img/avatar/avatar-face-02.webp" type="image/webp"><img src="/assets/auth/img/avatar/avatar-face-02.png" alt="User Name"></picture>
                         Kathryn Murphy
                       </div>
                     </td>
@@ -581,7 +564,7 @@
               <canvas id="customersChart" aria-label="Customers statistics" role="img"></canvas>
               <!--              <p class="customers__title">New Customers <span>+958</span></p>
               <p class="customers__date">28 Daily Avg.</p>
-              <picture><source srcset="./img/svg/customers.svg" type="image/webp"><img src="./img/svg/customers.svg" alt=""></picture> -->
+              <picture><source srcset="/assets/auth//img/svg/customers.svg" type="image/webp"><img src="/assets/auth//img/svg/customers.svg" alt=""></picture> -->
             </article>
             <article class="white-block">
               <div class="top-cat-title">
@@ -692,11 +675,11 @@
   </div>
 </div>
 <!-- Chart library -->
-<script src="./plugins/chart.min.js"></script>
+<script src="/assets/auth//plugins/chart.min.js"></script>
 <!-- Icons library -->
-<script src="plugins/feather.min.js"></script>
+<script src="/assets/auth/plugins/feather.min.js"></script>
 <!-- Custom scripts -->
-<script src="js/script.js"></script>
+<script src="/assets/auth/js/script.js"></script>
 </body>
 
 </html>
