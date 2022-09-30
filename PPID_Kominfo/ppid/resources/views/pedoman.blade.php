@@ -5,9 +5,9 @@
 
        <div class="container-xxl py-5">
               <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">BUPATI BANYUWANGI</h3>
+                    <h3 class="mb-5">BUPATI BANYUWANGI</h3>
                     <h3 class="mb-2">PERATURAN BUPATI BANYUWANGI</h3>
-                    <h3 class="mb-4">NOMOR 19 TAHUN 2012</h3>
+                    <h3 class="mb-5">NOMOR 19 TAHUN 2012</h3>
                     <h3 class="mb-2">TENTANG</h3>
                     <h3 class="mb-2">PEDOMAN PELAYANAN INFORMASI DAN DOKUMENTASI</h3>
                     <h3 class="mb-2">DI LINGKUNGAN PEMERINTAH KABUPATEN BANYUWANGI</h3>
@@ -30,16 +30,17 @@
                     9. Peraturan Menteri Dalam Negeri Nomor 35 Tahun 2010 tentang Pedoman Pengelolaan Pelayanan Informasi dan Dokumentasi di Lingkungan Kementerian Dalam Negeri dan Pemerintahan Daerah (Berita Negara Republik Indonesia Tahun 2010 Nomor 245);<br>
                     10. Peraturan Komisi Informasi Nomor 1 Tahun 2010 tentang Standar Layanan Informasi Publik;<br>
                     11. Peraturan Daerah Kabupaten Banyuwangi Nomor 6 Tahun 2011 tentang Organisasi Perangkat Daerah Kabupaten Banyuwangi ( Lembaran Daerah Kabupaten Banyuwangi Tahun 2011 Nomor 1 / D );<br>
-       <div class="container-xxl py-5">
+                    <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">MEMUTUSKAN</h3>
+                    <h3 class="mb-2">MEMUTUSKAN</h3>
               </div>
                     Menetapkan : PERATURAN BUPATI TENTANG PEDOMAN PELAYANAN INFORMASI PUBLIK DI LINGKUNGAN PEMERINTAH KABUPATEN BANYUWANGI.<br>
-       <div class="container-xxl py-5">
+</div>
+                    <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">BAB 1</h3>
-                    <h3 class="mb-4">KETENTUAN UMUM</h3>
-                    <h3 class="mb-4">Pasal 1</h3>
+                    <h3 class="mb-2">BAB 1</h3>
+                    <h3 class="mb-2">KETENTUAN UMUM</h3>
+                    <h3 class="mb-2">Pasal 1</h3>
              </div>
                     Dalam Peraturan Bupati ini yang dimaksud dengan :<br>
                     1. Daerah adalah Kabupaten Banyuwangi;<br>
@@ -59,13 +60,15 @@
                     15. Pengguna Informasi Publik adalah orang yang menggunakan informasi publik sebagaimana diatur dalam ketentuan peraturan perundang-undangan;<br>
                     16. Orang adalah orang perseorangan, kelompok orang, badan hukum, atau badan publik;<br>
                     17. Pemohon Informasi Publik adalah warga negara dan/atau badan hukum Indonesia yang mengajukan permintaan informasi publik sebagaimana diatur dalam ketentuan peraturan perundang-undangan.<br>
-       <div class="container-xxl py-5">
+</div>
+
+                <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">BAB II</h3>
-                    <h3 class="mb-4">PENGELOLA LAYANAN INFORMASI DAN DOKUMENTASI</h3>
+                    <h3 class="mb-2">BAB II</h3>
+                    <h3 class="mb-2">PENGELOLA LAYANAN INFORMASI DAN DOKUMENTASI</h3>
                     <p>Pasal 2</p>
              </div>
-                <p class="mb-4">Pemerintahan Daerah yang terdiri dari Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah sebagai Badan Publik melaksanakan pengelolaan pelayanan informasi dan dokumentasi.</p>
+                <p class="mb-2">Pemerintahan Daerah yang terdiri dari Pemerintah Daerah dan Dewan Perwakilan Rakyat Daerah sebagai Badan Publik melaksanakan pengelolaan pelayanan informasi dan dokumentasi.</p>
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 3</p>
              </div>
@@ -74,10 +77,12 @@
                     (3) Informasi Publik di lingkungan Pemerintahan Daerah dapat diperoleh pemohon informasi publik dengan cepat, tepat waktu, biaya ringan, dan dapat diakses dengan mudah ;<br>
                     (4) Informasi Publik di lingkungan Pemerintahan Daerah dapat diperoleh pemohon informasi publik dengan cepat, tepat waktu, biaya ringan, dan dapat diakses dengan mudah ;<br>
                     (5) Informasi Publik yang dikecualikan didasarkan pada pengujian atas konsekuensi yang timbul apabila suatu informasi diberikan kepada masyarakat dan pertimbangan yang seksama bahwa menutup informasi publik dapat melindungi kepentingan yang lebih besar daripada membukanya atau sebaliknya.<br>
-       <div class="container-xxl py-5">
+</div>
+       
+                    <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">BAB III</h3>
-                    <h3 class="mb-4">HAK DAN KEWAJIBAN</h3>
+                    <h3 class="mb-2">BAB III</h3>
+                    <h3 class="mb-2">HAK DAN KEWAJIBAN</h3>
                     <p>Pasal 4</p>
              </div>
                     (1) Pemerintah Daerah berhak menolak memberikan informasi yang dikecualikan;<br>
@@ -94,10 +99,12 @@
              </div>
                     (1) Pemerintah Daerah wajib menyediakan, memberikan dan / atau menerbitkan informasi publik yang berada dibawah kewenangannya kepada pemohon informasi publik, selain informasi yang dikecualikan sesuai dengan Peraturan Perundang - undangan;<br>
                     (2) Untuk melaksanakan kewajiban sebagaimana dimaksud pada ayat (1), Pemerintah Daerah membangun dan mengembangkan sistem informasi dan dokumentasi pengelolaan informasi publik yang dapat diakses dengan mudah.<br>
-             <div class="container-xxl py-5">
+</div>
+
+                    <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">BAB IV</h3>
-                    <h3 class="mb-4"> PEJABAT PENGELOLA INFORMASI DAN DOKUMENTASI </h3>
+                    <h3 class="mb-2">BAB IV</h3>
+                    <h3 class="mb-2"> PEJABAT PENGELOLA INFORMASI DAN DOKUMENTASI </h3>
                     <p>Pasal 6</p>
              </div>
                     (1) Untuk mengelola pelayanan informasi dan dokumentasi di lingkungan Pemerintahan Daerah ditetapkan PPID;<br>
@@ -118,6 +125,8 @@
                     d.Melakukan uji konsekuensi atas informasi yang dikecualikan;<br>
                     e.Melakukan pemutakhiran informasi dan dokumentasi ; dan<br>
                     f.Menyediakan informasi dan dokumentasi untuk diakses oleh masyarakat.<br>
+</div>
+
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 9</p>
              </div>
@@ -127,7 +136,9 @@
                       c.Mengkoordinasikan pemberian pelayanan informasi dengan PPID Pembantu dan/ atau Pejabat Fungsional yang menjadi cakupan kerjanya;<br>
                       d.Menentukan atau menetapkan suatu informasi dapat/ tidaknya diakses publik;<br>
                       e.Menugaskan PPID Pembantu dan/atau Pejabat Fungsional untuk membuat, mengumpulkan, serta memelihara informasi dan dokumentasi untuk kebutuhan organisasi.<br>
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+           
+                      
+                      <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 10</p>
              </div> 
                       (1)PPID Pembantu sebagaimana tersebut pada Pasal 7 ayat (2) mempunyai kriteria sebagai berikut:<br>
@@ -136,14 +147,18 @@
                       (2) PPID Pembantu ditetapkan dengan Keputusan Kepala SKPD;<br>
                       (3) PPID Pembantu bertugas membantu PPIDmelaksanakan ketentuan sebagaimana dimaksud dalam Pasal 8 dan Pasal 9;<br>
                       (4) PPID Pembantu menyampaikan informasi dan dokumentasi kepada PPID secara berkala dan sesuai kebutuhan.<br>
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                      </div>
+
+                      <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 11</p>
              </div> 
                       Tata kerja PPID di lingkungan Pemerintah Daerah diatur oleh Bupati sesuai kewenangannya.<br>
-              <div class="container-xxl py-5">
+</div>
+
+                      <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">BAB V</h3>
-                    <h3 class="mb-4"> PEMOHON INFORMASI DAN DOKUMENTASI </h3>
+                    <h3 class="mb-2">BAB V</h3>
+                    <h3 class="mb-2"> PEMOHON INFORMASI DAN DOKUMENTASI </h3>
                     <p>Pasal 12</p>
              </div>
                       Pemohon informasi dan dokumentasi meliputi:<br>
@@ -161,11 +176,13 @@
                       b.Mencantumkan alamat dan nomor telepon ;<br>
                       c.Menyampaikan secara jelas jenis informasi dan dokumentasi yang dibutuhkan ; dan<br>
                       d.Mencantumkan maksud dan tujuan permohonan informasi dan dokumentasi .<br>
-              <div class="container-xxl py-5">
+</div>  
+
+                      <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">BAB VI</h3>
-                    <h3 class="mb-4"> KLASIFIKASI INFORMASI PUBLIK </h3>
-                    <h3 class="mb-4"> Bagian Kesatu Umum</h3>
+                    <h3 class="mb-2">BAB VI</h3>
+                    <h3 class="mb-2"> KLASIFIKASI INFORMASI PUBLIK </h3>
+                    <h3 class="mb-2"> Bagian Kesatu Umum</h3>
                     <p>Pasal 14</p> 
              </div>
                       Informasi publik di lingkungan Pemerintah Daerah merupakan informasi yang dihasilkan, disimpan, dikelola, dikirim, atau diterima, yang berkaitan dengan kegiatan penyelenggaraan pemerintahan di Daerah.<br>
@@ -178,9 +195,11 @@
                       b.Informasi yang wajib diumumkan secara serta merta ;<br>
                       c.Informasi yang wajib tersedia setiap saat ;<br>
                       d.Informasi yang dikecualikan .<br>
+</div>
+
               <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4"> Bagian Kedua Informasi yang Wajib Disediakan dan Diumumkan secara Berkala</h3>
+                    <h3 class="mb-2"> Bagian Kedua Informasi yang Wajib Disediakan dan Diumumkan secara Berkala</h3>
                     <p>Pasal 16</p> 
             </div>
                       (1)Informasi yang wajib disediakan dan diumumkan secara berkala, sekurang-kurangnya terdiri atas :<br>
@@ -208,9 +227,11 @@
                          h.Informasi tentang tata cara pelayanan pengaduan;<br>
                          i.Informasi tentang pengumuman pengadaan barang dan/atau jasa sesuai dengan peraturan perundang-undangan terkait.<br>
                            (2)Pengumuman secara berkala sebagaimana dimaksud pada ayat (1), dilakukan sekurang-kurangnya setiap 1 (satu) tahun sekali.<br>
-                <div class="container-xxl py-5">
+</div>
+
+                           <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4"> Bagian Ketiga Informasi yang Wajib Diumumkan secara Serta Merta</h3>
+                    <h3 class="mb-2"> Bagian Ketiga Informasi yang Wajib Diumumkan secara Serta Merta</h3>
                     <p>Pasal 17</p>
              </div>
                        (1)Setiap Badan Publik wajib mengumumkan secara serta merta, yaitu suatu informasi yang dapat mengancam hajat hidup orang banyak dan ketertiban umum antara lain :<br>
@@ -221,7 +242,9 @@
                           e.Informasi tentang racun pada bahan makanan yang dikonsumsi oleh masyarakat; atau<br>
                           f.Informasi tentang rencana gangguan terhadap putilitas publik.<br>
                        (2)Pengumuman informasi sebagaimana dimaksud pada ayat (1), disampaikan dengan bahasa yang sederhana, mudah dimengerti dan dipahami oleh masyarakat.<br>
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                       </div>
+
+                       <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <p>Pasal 18</p>
              </div>   
                        (1)Pihak yang menerima izin atau perjanjian kerja dari badan publik yang kegiatannya berpotensi mengancam hajat hidup orang banyak dan ketertiban umum sebagaimana dimaksud dalam Pasal 31 ayat (1), wajib memiliki Standar pengumuman informasi;<br>
@@ -233,9 +256,11 @@
                           e.Cara menghindari bahaya dan/atau dampak yang ditimbulkan;<br>
                           f.Cara mendapatkan bantuan dari pihak yang berwenang;<br>
                           g. Upaya-upaya yang dilakukan oleh badan publik dan / atau pihak-pihak yang berwenang dalam menanggulangi bahaya dan/atau dampak yang ditimbulkan.<br>
-                <div class="container-xxl py-5">
+</div>
+               
+                          <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">Bagian Keempat Informasi yang Wajib Tersedia Setiap Saat</h3>
+                    <h3 class="mb-2">Bagian Keempat Informasi yang Wajib Tersedia Setiap Saat</h3>
                     <p>Pasal 19</p> 
             </div>
                        (1)Setiap badan publik wajib menyediakan Informasi Publik setiap saat,kecuali yang dapat ditolak sebagaimana yang telah ditetapkan; dalam ketentuan peraturan perundang-undangan.<br>
@@ -264,16 +289,20 @@
                           o.Informasi Publik lain yang telah dinyatakan terbuka bagi masyarakat berdasarkan mekanisme keberatan dan/penyelesaian sengketa sebagaimana dimaksud dalam pasal 11 Undang-Undang Nomor 14 Tahun 2008 tentang keterbukaan Informasi Publik;<br>
                           p.Informasi tentang standar pengumuman informasi bagi badan publik yang memberikan ijin dan/atau melakukan perjanjian kerja dengan pihak lain yang kegiatannya berpotensi mengancam hajat hidup orang banyak dan ketertiban umum;<br>
                           q.Informasi dan kebijakan yang disampaikan Pejabat publik dalam pertemuan yang terbuka untuk umum.<br>
-                <div class="container-xxl py-5">
+</div>
+
+                          <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">Bagian Kelima Informasi yang Dikecualikan</h3>
+                    <h3 class="mb-2">Bagian Kelima Informasi yang Dikecualikan</h3>
                     <p>Pasal 20</p> 
             </div>
                        (1)Setiap badan publik wajib membuka akses informasi publik bagi setiap pemohon informasi publik, kecuali informasi yang dikecualikan sebagaimana diatur dalam undang-undang Keterbukaan Informasi Publik.<br>
                        (2)Pengecualian Informasi Publik didasarkan pada pengujian tentang konsekuensi yang timbul apabila suatu informasi diberikan serta setelah dipertimbangkan dengan seksama bahwa menutup Informasi publik dapat melindungi kepentingan yang lebih besar daripada membukanya atau sebaliknya.<br>
-                <div class="container-xxl py-5">
+</div>
+ 
+                       <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                    <h3 class="mb-4">Paragraf 1 Pengklasifikasian Informasi yang Dikecualikan</h3>
+                    <h3 class="mb-2">Paragraf 1 Pengklasifikasian Informasi yang Dikecualikan</h3>
                     <p>Pasal 21</p> 
             </div>
                        (1)Pengklasifikasian Informasi ditetapkan oleh PPID di Pemerintah Daerah berdasarkan Pengujian Konsekuensi secara seksama dan penuh ketelitian berdasarkan alasan dalam Pasal 17 Undang-Undang Nomor 14 Tahun 2008 tentang Keterbukaan Informasi Publik sebelum menyatakan Informasi Publik tertentu dikecualikan untuk diakses oleh setiap orang;<br>
@@ -296,22 +325,27 @@
             </div> 
                        (1)PPID atas persetujuan Bupati dapat mengubah klasifikasi informasi yang dikecualikan.<br>
                        (2)Pengubahan klasifikasi informasi yang dikecualikan sebagaimana dimaksud pada ayat (1), hanya dapat dilakukan berdasarkan Pengujian Konsekuensi.<br>
-                <div class="container-xxl py-5">
+</div>
+
+                       <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                <h3 class="mb-4">BAB VII</h3>
-                <h3 class="mb-4">PEMBIAYAAN</h3>
+                <h3 class="mb-2">BAB VII</h3>
+                <h3 class="mb-2">PEMBIAYAAN</h3>
                 <p>Pasal 24</p>
              </div>
                        Segala biaya yang diperlukan untuk pengelolaan pelayanan informasi dan dokumentasi di lingkungan Pemerintahan Kabupaten Banyuwangi dibebankan pada Anggaran Pendapatan dan Belanja Daerah Kabupaten Banyuwangi.<br>
-                <div class="container-xxl py-5">
+      
+</div>
+        <div class="container-xxl py-5">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                <h3 class="mb-4">BAB VIII</h3>       
-                <h3 class="mb-4">KETENTUAN PENUTUP</h3>
+                <h3 class="mb-2">BAB VIII</h3>       
+                <h3 class="mb-2">KETENTUAN PENUTUP</h3>
                     <p>Pasal 25</p> 
             </div>
             Peraturan Bupati ini mulai berlaku pada tanggal diundangkan. Agar setiap orang mengetahuinya, memerintahkan pengundangan Peraturan Bupati ini dengan penempatannya dalam Berita Daerah Kabupaten Banyuwangi.<br>
         </div>
         </div>
         </div>
+</div>
 
 @stop
