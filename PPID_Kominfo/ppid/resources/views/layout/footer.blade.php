@@ -10,6 +10,7 @@
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>Telp: (0333) 422400</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>Fax: (0333) 413437</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>kominfosandi@banyuwangikab.go.id</p>
+                    <p class="mb-2"><i class="fa fa-solid fa-lock me-3"></i> <a href="/login" class="btn btn-primary">Login Admin</a></p>
                     <div class="d-flex pt-2">
                     <a class="btn btn-outline-light btn-social rounded-circle" href="https://diskominfo.banyuwangikab.go.id/"><i class="fa fa-link"></i></a>
                     <a class="btn btn-outline-light btn-social rounded-circle" href="https://www.facebook.com/people/Diskominfo-Banyuwangi/100072323211413/"><i class="fab fa-facebook-f"></i></a>

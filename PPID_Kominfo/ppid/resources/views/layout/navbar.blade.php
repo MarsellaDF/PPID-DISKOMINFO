@@ -70,10 +70,10 @@
                         <a href="/langsung" class="dropdown-item">Permohonan Informasi Datang Langsung</a>
                         <a href="/permohonan" class="dropdown-item">Alur Permohonan Informasi</a>
                         <a href="/keberatan" class="dropdown-item">Alur Pengajuan Keberatan</a>
-                        <a href="/laporan" class="dropdown-item">Laporan</a>
+                        <a href="/laporan" class="dropdown-item">Laporan Informasi</a>
                     </div>
                 </div>
-            <a href="/login" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Login<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="/login" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Login Admin</a>
         </div>
     </nav>
     <!-- Navbar End -->

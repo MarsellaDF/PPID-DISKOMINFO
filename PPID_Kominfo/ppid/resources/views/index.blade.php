@@ -9,7 +9,7 @@
         <div class="row g-0 align-items-center flex-column-reverse flex-lg-row">
             <div class="col-lg-6 p-5 wow fadeOut" data-wow-delay="0.1s">
                 <h2 class="display-4 text-white mb-5">PPID Dinas Kominfo Kab Banyuwangi</h2>
-                <a href="/login" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Pengajuan Permohonan Online >>>></a>
+                <a href="/login_pengguna" class="btn btn-outline-light py-md-3 px-md-5 animated slideInRight">Pengajuan Permohonan Online >>>></a>
                 <!-- <div class="row g-4">
                     <div class="col-sm-4">
                         <div class="border-start border-light ps-4">
@@ -66,15 +66,87 @@
     <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
-                <h1>Susunan Keanggotaan PPID</h1>
+                <h1>Susunan Keanggotaan PPID</h1><br>
+    <table class="table1">
+		<tr>
+			<td>Atasan PPID</td>
+			<td>Budi Santoso</td>
+			<td>Kepala Dinas Komunikasi, Informatika dan Persandian Kabupaten Banyuwangi</td>
+		</tr>
+		<tr>
+			<td>Ketua</td>
+			<td>Abin Hidayat</td>
+			<td>Sekretaris Dinas Komunikasi, Informatika dan Persandian Kabupaten Banyuwangi</td>
+		</tr>
+		<tr>
+			<td>Sekretaris<br>
+                - Pengelola Sekretariat<br>
+                - Anggota</td>
+			<td>Rahmawati Setyoardini<br>
+                Hj. Ermi Rossana<br>
+                1. Moh. Arif Fajartono<br>
+                2. Hendy Fatkhurochman<br>
+                3. Prastiyo<br>
+                4. Nur Hidayati<br>
+                5. Rif'atul Husnia</td>
+			<td>Kepala Bidang Informasi dan Komunikasi Publik Kasi Dokumentasi dan Pemberitaan<br>
+                Staf<br>
+                Staf<br>
+                Staf<br>
+                Staf<br>
+                Staf<br>
+                Staf</td>
+		</tr>
+		<tr>
+			<td>Bidang - Bidang<br>
+            a. Ketua Bidang Pelayanan dan Dokumentasi Informasi<br>
+                - Pengelola Publikasi<br>
+                - Anggota<br></br>
+            b. Ketua Bidang Pengolah Data dan Klasifikasi Informasi<br>
+                - Pengelola Data<br>
+                - Anggota<br>
+            c. Ketua Bidang Penyelesaian Sengketa Informasi<br>
+                - Anggota (Pengelola Penyelesaian Sengketa)</td>
+            <td>Agustinus Suko Basuki<br>
+                1. Sumber Hari Hartono<br>
+                2. Ririn Handajati<br>
+                3. Faridhatis Salmi<br>
+                4. Wahyu Priyanto<br></br>
+                Tri Jatmiko<br>
+                1. Arif Fauzi<br>
+                2. Joni Priyanto<br>
+                3. Moh. Zainur Rofik<br>
+                4. Niluh Sari Kurnia Pratiwi<br></br>
+                Hj. Sujarmi<br>
+                1. Nafi Feridian<br>
+                2. Edy Fakhrurahman Hamid<br>
+                3. Windy Sindu Pradana<br>
+                4. R. Arief Budi Santoso</td>
+                <td>Kepala Bidang Teknologi Informatika<br>
+                Kasi Aplikasi dan Tata Kelola Teknologi Informatika<br>
+                Kasubbag Penyusunan Program<br>
+                Staf<br>
+                Staf<br></br>
+                Kepala Bidang Statistik dan Persandian<br>
+                Kasi Infrastuktur Teknologi Informatika<br>
+                Kasi Persandian<br>
+                Staf<br>
+                Staf<br></br>
+                Kasubbag Umum dan Keuangan<br>
+                Kasi Komunikasi Publik<br>
+                Kasi Informasi Publik<br>
+                Staf<br>
+                Staf<br></br>
+		</tr>
+	</table>
+                
             </div>
         </div>
     </div>
     <!-- Team End -->
 
-
     <!-- Testimonial Start -->
-    <div class="container-xxl py-5">
+    <!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="d-inline-block border rounded-pill py-1 px-4">Testimonial</p>
@@ -107,7 +179,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Testimonial End -->
 
 @stop
