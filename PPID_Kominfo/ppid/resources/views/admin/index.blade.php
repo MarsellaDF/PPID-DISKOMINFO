@@ -249,10 +249,17 @@
               <i data-feather="settings" aria-hidden="true"></i>
               <span>Account settings</span>
             </a></li>
-          <li><a class="danger" href="/login">
+          <li><a class="danger" href="{{ route('logout') }}"  onclick="event.preventDefault();
+                              document.getElementById('logout-form').submit();">
               <i data-feather="log-out" aria-hidden="true"></i>
               <span>Log out</span>
-            </a></li>
+                <!-- {{ __('Logout') }} -->
+            </a>
+
+            <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                @csrf
+            </form>
+          </li>
         </ul>
       </div>
     </div>

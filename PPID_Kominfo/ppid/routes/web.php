@@ -27,6 +27,9 @@ Route::resource('keberatan',App\Http\Controllers\KeberatanController::class);
 Route::resource('laporan',App\Http\Controllers\LaporanController::class);
 Route::resource('login',App\Http\Controllers\LoginController::class);
 Route::resource('login_pengguna',App\Http\Controllers\LoginPenggunaController::class);
-Route::resource('register',App\Http\Controllers\RegisterController::class);
-Route::resource('admin',App\Http\Controllers\AdminController::class);
+Route::resource('register-pengguna',App\Http\Controllers\RegisterPenggunaController::class);
+Route::resource('admin',App\Http\Controllers\AdminController::class)->middleware('auth');
 Route::resource('permohonan_online',App\Http\Controllers\PermohonanOnlineController::class);
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

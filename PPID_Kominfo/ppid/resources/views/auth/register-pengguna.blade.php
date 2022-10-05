@@ -16,9 +16,28 @@
   <div class="layer"></div>
 <main class="page-center">
   <article class="sign-up">
-    <h1 class="sign-up__title">PPID DINAS KOMINFO<br>
-    KABUPATEN BANYUWANGI</h1>
+    <h1 class="sign-up__title">REGISTER</h1>
     <form class="sign-up-form form" action="" method="">
+      <label class="form-label-wrapper">
+        <p class="form-label">Nomor Induk Kependudukan (NIK)</p>
+        <input class="form-input" type="number" placeholder="Masukkan NIK Anda" required>
+      </label>
+      <label class="form-label-wrapper">
+        <p class="form-label">Nama</p>
+        <input class="form-input" type="text" placeholder="Masukkan Nama Lengkap anda" required>
+      </label>
+      <label class="form-label-wrapper">
+        <p class="form-label">Alamat</p>
+        <input class="form-input" type="text" placeholder="Masukkan Alamat Lengkap Anda" required>
+      </label>
+      <label class="form-label-wrapper">
+        <p class="form-label">Nomor Telepon</p>
+        <input class="form-input" type="tel" placeholder="Masukkan Nomor Telepon Anda" required>
+      </label>
+      <label class="form-label-wrapper">
+        <p class="form-label">Pekerjaan</p>
+        <input class="form-input" type="text" placeholder="Masukkan Pekerjaan Anda" required>
+      </label>
       <label class="form-label-wrapper">
         <p class="form-label">Email</p>
         <input class="form-input" type="email" placeholder="Masukkan Email" required>
@@ -27,14 +46,11 @@
         <p class="form-label">Password</p>
         <input class="form-input" type="password" placeholder="Masukkan Password" required>
       </label>
-      <a class="link-info forget-link" href="##">Lupa Password?</a>
       <label class="form-checkbox-wrapper">
         <input class="form-checkbox" type="checkbox" required>
         <span class="form-checkbox-label">Ingatkan Saya</span>
       </label>
-      <button class="form-btn primary-default-btn transparent-btn">LOGIN</button>
-      Belum punya akun?
-      <a class="link-info forget-link" href="/register-pengguna">REGISTER</a>
+      <button class="form-btn primary-default-btn transparent-btn">SIGN UP</button>
     </form>
   </article>
 </main>
