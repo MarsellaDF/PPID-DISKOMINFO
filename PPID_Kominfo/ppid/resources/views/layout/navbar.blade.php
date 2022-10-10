@@ -40,11 +40,14 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 wow fadeIn" data-wow-delay="0.1s">
+        <a href="/" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+            <img src="/assets/template/img/logo.png" width="40" height="40">
+        </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <img src="/assets/template/img/logo.png" width="40" height="40">
-            <div class="navbar-nav ms-auto p-4 p-lg-0">
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <div class="navbar-nav ml-auto p-4 p-lg-0">
                 <a href="/" class="nav-item nav-link active">Beranda</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Menu PPID</a>
@@ -56,7 +59,7 @@
                     </div>
                 </div>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Daftar Informasi Publik</a>
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Informasi Publik</a>
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
                         <a href="/berkala" class="dropdown-item">Daftar Informasi Berkala</a>
                         <a href="/sesaat" class="dropdown-item">Daftar Informasi Setiap Saat</a>
@@ -73,7 +76,10 @@
                         <a href="/laporan" class="dropdown-item">Laporan Informasi</a>
                     </div>
                 </div>
-            <a href="/login" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Login Admin</a>
+                <!-- <a href="" class="nav-item nav-link"></a> -->
+                <!-- <a href="/" class="nav-item nav-link active">Beranda</a> -->
+            </div>
+            <!-- <a href="/login" class="btn btn-primary rounded-0 py-4 px-lg-5 d-none d-lg-block">Login Admin</a> -->
         </div>
     </nav>
     <!-- Navbar End -->

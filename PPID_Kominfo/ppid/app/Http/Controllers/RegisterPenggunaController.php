@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 
-class RegisterController extends Controller
+class RegisterPenggunaController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -23,7 +23,12 @@ class RegisterController extends Controller
      */
     public function create()
     {
-        //
+        return User::create([
+            'name' => $data['name'],
+            'email' => $data['email'],
+            'password' => Hash::make($data['password']),
+            'role' => 2,
+        ]);
     }
 
     /**

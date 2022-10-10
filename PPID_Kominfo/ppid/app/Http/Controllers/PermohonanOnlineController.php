@@ -13,7 +13,7 @@ class PermohonanOnlineController extends Controller
      */
     public function index()
     {
-        return view('permohonan_online');
+        return view('permohonan-online');
     }
 
     /**
