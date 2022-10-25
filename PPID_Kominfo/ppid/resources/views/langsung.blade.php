@@ -4,7 +4,7 @@
 <!-- mengisi badan content dengan isi di bawah section-->
 @section('content')
 
-<div class="container-xxl py-5">
+<div class="container-xxl py-5" href="/langsung">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
                     <h3 class="mb-4">Permohonan Informasi Datang Langsung</h3>
                     <h3 class="mb-4">MEKANISME PERMOHONAN INFORMASI PUBLIK </h3>
@@ -20,8 +20,28 @@
                     <h3 class="mb-2"> JANGKA WAKTU PENYELESAIAN </h3>
              </div>
              1. Proses penyelesaian untuk memenuhi permintaan pemohon informasi publik dilakukan setelah pemohon informasi memenuhi persyaratan yang telah ditentukan.<br>
-             2. Waktu penyelesaian dilaksanakan paling lambat 10 (sepuluh ) hari sejak diterima permintaan Pejabat Pengelola Informasi dan Dokumentasi (PPID) akan menyampaikan pemberitahuan yang berisikan informasi yang diminta berada dibawah penguasaannya atau tidak. Dan PPID dapat memperpanjang waktu paling lambat 14 (empat belas) hari kerja.<br>
+             2. Waktu penyelesaian dilaksanakan paling lambat 10 (sepuluh ) hari sejak diterima permintaan Pejabat Pengelola Informasi dan Dokumentasi (PPID) akan menyampaikan pemberitahuan yang berisikan 
+             informasi yang diminta berada dibawah penguasaannya atau tidak. Dan PPID dapat memperpanjang waktu paling lambat 14 (empat belas) hari kerja.<br>
              3. Penyampaian/pendistribusian/penyerahan informasi publik kepada pemohon informasi publik dilakukan secara langsung, dengan menandatangani berita acara penerimaan informasi publik.<br>
-             4. Jika permohonan informasi diterima, maka dalam surat pemberitahuan juga dicantumkan materi informasi yang diberikan, format informasi, apakah dalam bentuk softcopy atau data tertulis. Apabila dibutuhkan untuk keperluan penggandaan menjadi tanggung jawab atau beban pemohon informasi. Bila permintaan informasi ditolak, maka dalam surat pemberitahuan dicantumkan alasan penolakan.<br>
+             4. Jika permohonan informasi diterima, maka dalam surat pemberitahuan juga dicantumkan materi informasi yang diberikan, format informasi, apakah dalam bentuk softcopy atau data tertulis. 
+             Apabila dibutuhkan untuk keperluan penggandaan menjadi tanggung jawab atau beban pemohon informasi. Bila permintaan informasi ditolak, maka dalam surat pemberitahuan dicantumkan alasan penolakan.<br>
+             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
+                    <h3 class="mb-2"> BIAYA/TARIF </h3>
+             </div>
+             Pejabat Pengelola Informasi dan Dokumentasi menyediakan informasi publik secara gratis (tidak dipungut biaya), sedangkan untuk penggandaan, pemohon/pengguna informasi publik dapat melakukan penggandaan/fotocopy sendiri di sekitar gedung Dinas Kominfo Prov Jatim atau biaya penggandaan ditanggung oleh pemohon informasi.
+              </div>
 
+              <div class="container-xxl py-5" href="/assets/template/img/Alur permohonan informasi.png">
+                <div class="text-center mx-auto mb-5">
+                    <h3 id="permohonan">ALUR PERMOHONAN INFORMASI</h3>
+                    <img class="img-fluid rounded w-500 align-self-end" src="/assets/template/img/Alur permohonan informasi.png" ><br>
+                    </div>
+            </div>
+
+            <div class="container-xxl py-5" href="/assets/template/img/keberatan.png">
+                <div class="text-center mx-auto mb-5">
+                    <h3 id="keberatan">ALUR PENGAJUAN KEBERATAN</h3>
+                    <img class="img-fluid rounded w-500 align-self-end" src="/assets/template/img/keberatan.png" ><br>
+                    </div>
+            </div>
 @stop
