@@ -33,6 +33,11 @@ Route::resource("register-pengguna", App\Http\Controllers\RegisterPenggunaContro
 Route::resource('admin',App\Http\Controllers\AdminController::class)->middleware('auth');
 Route::resource('pengguna',App\Http\Controllers\PenggunaController::class)->middleware('auth');
 
+// backend
+Route::resource('banner-admin', App\Http\Controllers\BannerController::class);
+Route::resource('library-admin', App\Http\Controllers\LibraryController::class);
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+

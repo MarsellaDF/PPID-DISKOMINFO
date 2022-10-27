@@ -9,6 +9,19 @@
 
 <head>
     @include('admin.layout.url_css')
+    <style>
+        .pagination li {
+            display: inline-block;
+            margin: 8px;
+        }
+
+        .pagination li.active {
+            padding: 8px;
+            background-color: #0061f7;
+            color: white;
+            border-radius: 5px;
+        }
+    </style>
 </head>
 
 <body>
@@ -20,15 +33,15 @@
         <div class="main-wrapper">
             <!-- ! Main nav -->
             <nav class="main-nav--bg">
-                <div class="container main-nav">
+                <div class="container main-nav" style="height: 50px">
                     <div class="main-nav-start">
-                        <div class="search-wrapper">
+                        {{--  <div class="search-wrapper">
                             <i data-feather="search" aria-hidden="true"></i>
                             <input type="text" placeholder="Enter keywords ..." required>
-                        </div>
+                        </div>  --}}
                     </div>
                     <div class="main-nav-end">
-                        <button class="sidebar-toggle transparent-btn" title="Menu" type="button">
+                        {{--  <button class="sidebar-toggle transparent-btn" title="Menu" type="button">
                             <span class="sr-only">Toggle menu</span>
                             <span class="icon menu-toggle--gray" aria-hidden="true"></span>
                         </button>
@@ -85,18 +98,19 @@
                                     <a class="link-to-page" href="##">Go to Notifications page</a>
                                 </li>
                             </ul>
-                        </div>
-                        <div class="nav-user-wrapper">
+                        </div> --}}
+                        <div class="nav-user-wrapper text-right" style="height: 50px">
                             <button href="##" class="nav-user-btn dropdown-btn" title="My profile" type="button">
                                 <span class="sr-only">My profile</span>
                                 <span class="nav-user-img">
                                     <picture>
-                                        <source srcset="/assets/auth/img/avatar/avatar-illustrated-02.webp" type="image/webp">
+                                        <source srcset="/assets/auth/img/avatar/avatar-illustrated-02.webp"
+                                            type="image/webp">
                                         <img src="/assets/auth/img/avatar/avatar-illustrated-02.png" alt="User name">
                                     </picture>
                                 </span>
                             </button>
-                            <ul class="users-item-dropdown nav-user-dropdown dropdown">
+                            <ul class="users-item-dropdown nav-user-dropdown dropdown" style="top: 0 !important">
                                 <li><a href="##">
                                         <i data-feather="user" aria-hidden="true"></i>
                                         <span>Profile</span>
@@ -112,18 +126,42 @@
                                         <span>Log out</span>
                                         <!-- {{ __('Logout') }} -->
                                     </a>
-    
+
                                     <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
                                         @csrf
                                     </form>
                                 </li>
                             </ul>
-                        </div>
+                        </div> 
                     </div>
                 </div>
             </nav>
             <!-- ! Main -->
             <main class="main users chart-page" id="skip-target">
+                {{-- menampilkan error validasi --}}
+                @if (count($errors) > 0)
+                <div class="alert alert-danger">
+                    <ul>
+                        @foreach ($errors->all() as $error)
+                            <li>{{ $error }}</li>
+                        @endforeach
+                    </ul>
+                </div>
+                @endif
+
+                @if ($message = Session::get('success'))
+                    <div class="alert alert-success alert-dismissible" role="alert">
+                        <strong>{{ $message }}</strong>
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                @endif
+
+                @if ($message = Session::get('error'))
+                    <div class="alert alert-danger alert-dismissible" role="alert">
+                        <strong>{{ $message }}</strong>
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+                    </div>
+                @endif
                 @yield('content-admin')
             </main>
             @include('admin.layout.footer')
@@ -132,4 +170,21 @@
     @include('admin.layout.url_js')
 </body>
 
+<script>
+    $(document).ready(function() {
+        $('#table').DataTable({
+            "pagingType": "full_numbers"
+        });
+    });
+
+    $("#table_wrapper").removeClass("form-inline");
+
+</script>
+<script>
+    var konten = document.getElementById("konten");
+    CKEDITOR.replace(konten, {
+        language: 'en-gb'
+    });
+    CKEDITOR.config.allowedContent = true;
+</script>
 </html>
