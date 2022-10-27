@@ -22,6 +22,7 @@ Route::resource('sesaat',App\Http\Controllers\SesaatController::class);
 Route::resource('semerta',App\Http\Controllers\SemertaController::class);
 Route::resource('kecuali',App\Http\Controllers\KecualiController::class);
 Route::resource('langsung',App\Http\Controllers\LangsungController::class);
+Route::resource('informasi',App\Http\Controllers\InformasiController::class);
 Route::resource('permohonan',App\Http\Controllers\PermohonanController::class);
 Route::resource('permohonan_online',App\Http\Controllers\PermohonanOnlineController::class);
 Route::resource('keberatan',App\Http\Controllers\KeberatanController::class);

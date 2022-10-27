@@ -70,6 +70,7 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Layanan Informasi</a>
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
+                        <a href="/informasi" class="dropdown-item">Permohonan Informasi Publik</a>
                         <a href="/langsung" class="dropdown-item">Permohonan Informasi Datang Langsung</a>
                         <a href="#permohonan" class="dropdown-item">Alur Permohonan Informasi</a>
                         <a href="#keberatan" class="dropdown-item">Alur Pengajuan Keberatan</a>
