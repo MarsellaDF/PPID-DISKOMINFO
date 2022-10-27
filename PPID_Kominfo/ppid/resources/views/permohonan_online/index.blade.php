@@ -46,16 +46,16 @@
                                         <label for="exampleFormControlInput1" class="form-label">Nomor Induk Kependudukan</label>
                                         <input name="nik" type="text" class="form-control" maxlength="16"
                                             data-minlength="16" id="exampleFormControlInput1"
-                                            placeholder="35**************" value="{{ old('nik') }}">
+                                            placeholder="35**************" value="{{ $dataPengguna->nik }}">
                                         @error('nik')
                                             <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
-                                
+
                                     <div class="mb-3">
                                         <label for="exampleFormControlInput1" class="form-label">Nama Lengkap</label>
                                         <input name="nama" type="text" class="form-control"
-                                            value="{{ old('nama') }}" id="exampleFormControlInput1"
+                                            value="{{ $dataUser->name }}" id="exampleFormControlInput1"
                                             placeholder="Nama Lengkap Anda">
                                         @error('nama')
                                             <div class="text-danger">* {{ $message }}</div>
@@ -65,7 +65,7 @@
                                     <div class="mb-3">
                                         <label for="exampleFormControlInput1" class="form-label">Alamat Lengkap</label>
                                         <input name="alamat" type="text" class="form-control"
-                                            value="{{ old('alamat') }}" id="exampleFormControlInput1"
+                                            value="{{ $dataPengguna->address }}" id="exampleFormControlInput1"
                                             placeholder="Isikan Alamat Lengkap Anda">
                                         @error('alamat')
                                             <div class="text-danger">* {{ $message }}</div>
@@ -125,7 +125,7 @@
                                             <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
-                                    
+
                                     <div class="mb-3">
                                         <label for="exampleFormControlInput1" class="form-label">Alasan dan Tujuan Penggunaan Informasi</label>
                                         <input name="alasan_tujuan" type="text" class="form-control"
