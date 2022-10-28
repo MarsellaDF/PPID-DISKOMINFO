@@ -2,6 +2,8 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Banner;
+use App\Models\Library;
 use Illuminate\Http\Request;
 
 class HomeController extends Controller
@@ -23,6 +25,8 @@ class HomeController extends Controller
      */
     public function index()
     {
-        return view('beranda');
+        $data['banners'] = Banner::where('status', true)->orderByDesc('id')->get();
+        $data['latarBelakang'] =  Library::where("title", "Latar Belakang")->first();
+        return view('beranda', $data);
     }
 }

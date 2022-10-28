@@ -2,88 +2,110 @@
 
 namespace App\Http\Controllers;
 
+use App\Http\Controllers\Controller;
+use App\Models\Pengguna;
+use App\Providers\RouteServiceProvider;
+use App\Models\User;
+use Illuminate\Foundation\Auth\RegistersUsers;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Validator;
+use DateTime;
 
 class RegisterPenggunaController extends Controller
 {
+    /*
+    |--------------------------------------------------------------------------
+    | Register Controller
+    |--------------------------------------------------------------------------
+    |
+    | This controller handles the registration of new users as well as their
+    | validation and creation. By default this controller uses a trait to
+    | provide this functionality without requiring any additional code.
+    |
+    */
+
+    // use RegisterPengguna;
+
     /**
-     * Display a listing of the resource.
+     * Where to redirect users after registration.
      *
-     * @return \Illuminate\Http\Response
+     * @var string
      */
+    // protected $redirectTo = RouteServiceProvider::HOME;
     public function index()
     {
         return view('auth.register-pengguna');
     }
+    /**
+     * Create a new controller instance.
+     *
+     * @return void
+     */
+    public function __construct()
+    {
+        $this->middleware('guest');
+    }
 
     /**
-     * Show the form for creating a new resource.
+     * Get a validator for an incoming registration request.
      *
-     * @return \Illuminate\Http\Response
+     * @param  array  $data
+     * @return \Illuminate\Contracts\Validation\Validator
      */
-    public function create()
+    protected function validator(array $data)
     {
-        return User::create([
-            'name' => $data['name'],
-            'email' => $data['email'],
-            'password' => Hash::make($data['password']),
-            'role' => 2,
+        return Validator::make($data, [
+            'name' => ['required', 'string', 'max:255'],
+            'email' => ['required', 'string', 'email', 'max:255', 'unique:users'],
+            'password' => ['required', 'string', 'min:8', 'confirmed'],
         ]);
     }
 
     /**
-     * Store a newly created resource in storage.
+     * Create a new user instance after a valid registration.
      *
-     * @param  \Illuminate\Http\Request  $request
-     * @return \Illuminate\Http\Response
+     * @param  array  $data
+     * @return \App\Models\User
      */
-    public function store(Request $request)
+    protected function store(Request $data)
     {
-        //
-    }
+        $data['dataUser'] = User::create([
+            'name' => $data['name'],
+            'email' => $data['email'],
+            'password' => Hash::make($data['password']),
+            'type' => 0,
+        ]);
 
-    /**
-     * Display the specified resource.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function show($id)
-    {
-        //
-    }
+        $idUser = $data['dataUser']->id;
 
-    /**
-     * Show the form for editing the specified resource.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function edit($id)
-    {
-        //
-    }
+        $dt = new DateTime();
+        $six_digit_random_number = random_int(1000, 9999);
+        $id_pengguna = "";
 
-    /**
-     * Update the specified resource in storage.
-     *
-     * @param  \Illuminate\Http\Request  $request
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function update(Request $request, $id)
-    {
-        //
-    }
+        $pengguna = Pengguna::orderBy('created_at', 'desc')->get();
 
-    /**
-     * Remove the specified resource from storage.
-     *
-     * @param  int  $id
-     * @return \Illuminate\Http\Response
-     */
-    public function destroy($id)
-    {
-        //
+        if ($pengguna->count() > 0) {
+            $id_pengguna = $pengguna[0]->no_register;
+            $last_increment = substr($id_pengguna, 8);
+
+            $id_pengguna = str_pad($last_increment + 1, 6, '0', STR_PAD_LEFT);
+            $id_pengguna = 'PM-' . $six_digit_random_number . '-' . $id_pengguna;
+        } else {
+            $id_pengguna = 'PM-' . $six_digit_random_number . '-000001';
+        };
+
+        $data['dataPengguna'] = Pengguna::create([
+            'no_register' => $id_pengguna,
+            'id_user' => $idUser,
+            'nik' => $data['nik'],
+            'address' => $data['address'],
+            'telepon' => $data['telepon'],
+            'jobs' => $data['jobs'],
+            'status' => false,
+            'created_at' => now(),
+        ]);
+
+        return view("permohonan_online.index", $data);
     }
 }

@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('content')
+{{--  @section('content')
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
@@ -70,4 +70,31 @@
         </div>
     </div>
 </div>
+@endsection  --}}
+
+@section('content')
+    <article class="sign-up">
+        <h1>LOGIN ADMIN</h1>
+        <h1 class="sign-up__title">PPID DINAS KOMINFO<br>
+            KABUPATEN BANYUWANGI</h1>
+        <form class="sign-up-form form" action="{{ route('login') }}" method="POST">
+            @csrf
+            <label class="form-label-wrapper">
+                <p class="form-label">Email</p>
+                <input class="form-input" type="email" name="email" placeholder="Masukkan Email" required>
+            </label>
+            <label class="form-label-wrapper">
+                <p class="form-label">Password</p>
+                <input class="form-input" type="password" name="password" placeholder="Masukkan Password" required>
+            </label>
+            <a class="link-info forget-link" href="##">Lupa Password?</a>
+            <label class="form-checkbox-wrapper">
+                <input class="form-checkbox" type="checkbox" required>
+                <span class="form-checkbox-label">Ingatkan Saya</span>
+            </label>
+            <button class="form-btn primary-default-btn transparent-btn">LOGIN</button>
+            Belum punya akun?
+            {{--  <a class="link-info forget-link" href="{{ route('register') }}">REGISTER</a>  --}}
+        </form>
+    </article>
 @endsection
