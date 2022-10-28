@@ -1,6 +1,7 @@
     <!-- (TAMPILAN HALAMAN PALING ATAS) -->
     <!-- Spinner Start -->
-    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+    <div id="spinner"
+        class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
             <span class="sr-only">Loading...</span>
         </div>
@@ -27,10 +28,16 @@
                     <small>(0333) 422400</small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center">
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href="https://diskominfo.banyuwangikab.go.id/"><i class="fa fa-link"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href="https://www.facebook.com/people/Diskominfo-Banyuwangi/100072323211413/"><i class="fab fa-facebook-f"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1" href="https://twitter.com/kominfosandibwi"><i class="fab fa-twitter"></i></a>
-                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-0" href="https://instagram.com/kominfobanyuwangi?igshid=YmMyMTA2M2Y="><i class="fab fa-instagram"></i></a>
+                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1"
+                        href="https://diskominfo.banyuwangikab.go.id/"><i class="fa fa-link"></i></a>
+                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1"
+                        href="https://www.facebook.com/people/Diskominfo-Banyuwangi/100072323211413/"><i
+                            class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-1"
+                        href="https://twitter.com/kominfosandibwi"><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-sm-square rounded-circle bg-white text-primary me-0"
+                        href="https://instagram.com/kominfobanyuwangi?igshid=YmMyMTA2M2Y="><i
+                            class="fab fa-instagram"></i></a>
                 </div>
             </div>
         </div>
@@ -54,7 +61,8 @@
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
                         <a href="/pedoman" class="dropdown-item">Pedoman</a>
                         <a href="/dashum" class="dropdown-item">Dasar Hukum Pembentukan</a>
-                        <a href="https://diskominfo.banyuwangikab.go.id/themes/okok/doc/SK123.pdf" class="dropdown-item">SK Pembentukan</a>
+                        <a href="https://diskominfo.banyuwangikab.go.id/themes/okok/doc/SK123.pdf"
+                            class="dropdown-item">SK Pembentukan</a>
                         <a href="/sop" class="dropdown-item">Standar Operasional Prosedur</a>
                     </div>
                 </div>
@@ -72,8 +80,8 @@
                     <div class="dropdown-menu rounded-0 rounded-bottom m-0">
                         <a href="/informasi" class="dropdown-item">Permohonan Informasi Publik</a>
                         <a href="/langsung" class="dropdown-item">Permohonan Informasi Datang Langsung</a>
-                        <a href="#permohonan" class="dropdown-item">Alur Permohonan Informasi</a>
-                        <a href="#keberatan" class="dropdown-item">Alur Pengajuan Keberatan</a>
+                        <a href="/langsung#permohonan" class="dropdown-item">Alur Permohonan Informasi</a>
+                        <a href="/langsung#keberatan" class="dropdown-item">Alur Pengajuan Keberatan</a>
                         <a href="/laporan" class="dropdown-item">Laporan Informasi</a>
                     </div>
                 </div>

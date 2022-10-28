@@ -5,45 +5,51 @@
 @section('content')
 
 <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                    <h3 class="mb-4">DASAR HUKUM PEMBENTUKAN</h3>
-             </div> 
-                    <p>I. PERATURAN YANG MENDASARI PEMBENTUKAN PPID:</p>
-                <div class="text-justify mx-auto mb-2" style="text-indent: 50px">
-                    <p>1. UNDANG-UNDANG RI NO. 14 /2008 TENTANG KETERBUKAAN INFORMASI PUBLIK</p>
-                    <p>2. PERATURAN PEMERINTAH RI NO. 61 /2010 TENTANG PELAKSANAAN UNDANG-UNDANG NO 14 /2008</p>
-                    <p>3. PERATURAN KOMISI INFORMASI NO. 1 / 2010 TENTANG STANDAR LAYANAN INFORMASI PUBLIK</p>
-                    <p>4. PERATURAN MENTERI DALAM NEGERI NO. 2 /2010 TENTANG PEDOMAN PENGELOLAAN PELAYANAN INFORMASI DAN DOKUMENTASI </P>
-                    <p>DI LINGKUNGAN KEMENTERIAN DALAM NEGERI</p>
-                    <P>5. PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA NO. 10 / 2010 TENTANG PEDOMAN PENGELOLAAN PELAYANAN INFORMASI DAN </p>
-                    <p> DOKUMENTASI DI LINGKUNGAN KEMENTERIAN KOMUNIKASI DAN INFORMATIKA</p>
-                </div>
-                    <p>II. PERATURAN YANG MENDASARI PEMBENTUKAN PPID KABUPATEN BANYUWANGI:</p>
-                <div class="text-justify mx-auto mb-2" style="text-indent: 50px">
-                    <p>1. SURAT KEPUTUSAN BUPATI NOMOR : 199/511/KEP/429.011/2012 TENTANG PEMBENTUKAN TIM PENYUSUNAN RANCANGAN PERATURAN </P>
-                    <p> BUPATI TENTANG PEDOMAN PENGELOLAAN PELAYANAN INFORMASI DAN DOKUMENTASI DI KABUPATEN BANYUWANGI</p>
-                    <p>2. PERATURAN BUPATI BANYUWANGI NOMOR 19 THN 2012 TANGGAL 25 JUNI 2012 Tentang PEDOMAN PELAYANAN INFORMASI DAN </P>
-                    <p> DOKUMENTASI DI LINGKUNGAN PEMERINTAH KABUPATEN BANYUWANGI</p>
-                </div>
-                    <p>III. PERATURAN YANG MENDASARI PEMBENTUKAN PPID PEMBANTU DISKOMINFO DAN PERSANDIAN KABUPATEN BANYUWANGI:</p>
-                <div class="text-justify mx-auto mb-2" style="text-indent: 50px">
-                    <p>1. KEPUTUSAN KEPALA DINAS KOMINFO DAN PERSANDIAN KABUPATEN BANYUWANGI NOMOR : 891/169/429.118/2017</P>
-                    <p>Tentang : Pejabat Pengelola Informasi dan Dokumentasi (PPID) pembantu pada KOMUNIKASI, INFORMATIKA DAN PERSANDIAN KABUPATEN </P>
-                    <p>BANYUWANGI</p>
-                    <p>2. KEPUTUSAN KEPALA DINAS KOMINFO DAN PERSANDIAN KABUPATEN BANYUWANGI NOMOR : 118/11/KEP/429.116/2020</P>
-                    <p> Tentang : Pejabat Pengelola Informasi dan Dokumentasi (PPID) pembantu pada Dinas Komunikasi, Informatika dan Persandian Kabupaten</p>
-                    <p> Banyuwangi</p>
-                </div>
-                </div>
-            </div>
+    <div class="container">
+        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+            <h3 class="mb-4">DASAR HUKUM PEMBENTUKAN</h3>
+        </div>
+        <p>I. PERATURAN YANG MENDASARI PEMBENTUKAN PPID:</p>
+        <div class="text-justify mx-auto mb-2" style="text-indent: 50px">
+            <p>1. UNDANG-UNDANG RI NO. 14 /2008 TENTANG KETERBUKAAN INFORMASI PUBLIK</p>
+            <p>2. PERATURAN PEMERINTAH RI NO. 61 /2010 TENTANG PELAKSANAAN UNDANG-UNDANG NO 14 /2008</p>
+            <p>3. PERATURAN KOMISI INFORMASI NO. 1 / 2010 TENTANG STANDAR LAYANAN INFORMASI PUBLIK</p>
+            <p>4. PERATURAN MENTERI DALAM NEGERI NO. 2 /2010 TENTANG PEDOMAN PENGELOLAAN PELAYANAN INFORMASI DAN
+                DOKUMENTASI </P>
+            <p>DI LINGKUNGAN KEMENTERIAN DALAM NEGERI</p>
+            <P>5. PERATURAN MENTERI KOMUNIKASI DAN INFORMATIKA NO. 10 / 2010 TENTANG PEDOMAN PENGELOLAAN PELAYANAN
+                INFORMASI DAN </p>
+            <p> DOKUMENTASI DI LINGKUNGAN KEMENTERIAN KOMUNIKASI DAN INFORMATIKA</p>
+        </div>
+        <p>II. PERATURAN YANG MENDASARI PEMBENTUKAN PPID KABUPATEN BANYUWANGI:</p>
+        <div class="text-justify mx-auto mb-2" style="text-indent: 50px">
+            <p>1. SURAT KEPUTUSAN BUPATI NOMOR : 199/511/KEP/429.011/2012 TENTANG PEMBENTUKAN TIM PENYUSUNAN RANCANGAN
+                PERATURAN </P>
+            <p> BUPATI TENTANG PEDOMAN PENGELOLAAN PELAYANAN INFORMASI DAN DOKUMENTASI DI KABUPATEN BANYUWANGI</p>
+            <p>2. PERATURAN BUPATI BANYUWANGI NOMOR 19 THN 2012 TANGGAL 25 JUNI 2012 Tentang PEDOMAN PELAYANAN INFORMASI
+                DAN </P>
+            <p> DOKUMENTASI DI LINGKUNGAN PEMERINTAH KABUPATEN BANYUWANGI</p>
+        </div>
+        <p>III. PERATURAN YANG MENDASARI PEMBENTUKAN PPID PEMBANTU DISKOMINFO DAN PERSANDIAN KABUPATEN BANYUWANGI:</p>
+        <div class="text-justify mx-auto mb-2" style="text-indent: 50px">
+            <p>1. KEPUTUSAN KEPALA DINAS KOMINFO DAN PERSANDIAN KABUPATEN BANYUWANGI NOMOR : 891/169/429.118/2017</P>
+            <p>Tentang : Pejabat Pengelola Informasi dan Dokumentasi (PPID) pembantu pada KOMUNIKASI, INFORMATIKA DAN
+                PERSANDIAN KABUPATEN </P>
+            <p>BANYUWANGI</p>
+            <p>2. KEPUTUSAN KEPALA DINAS KOMINFO DAN PERSANDIAN KABUPATEN BANYUWANGI NOMOR : 118/11/KEP/429.116/2020</P>
+            <p> Tentang : Pejabat Pengelola Informasi dan Dokumentasi (PPID) pembantu pada Dinas Komunikasi, Informatika
+                dan Persandian Kabupaten</p>
+            <p> Banyuwangi</p>
         </div>
     </div>
-    <!-- About End -->
+</div>
+</div>
+</div>
+<!-- About End -->
 
 
-    <!-- Service Start -->
-    <!-- <div class="container-xxl py-5">
+<!-- Service Start -->
+<!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="d-inline-block border rounded-pill py-1 px-4">Services</p>
@@ -113,11 +119,11 @@
             </div>
         </div>
     </div> -->
-    <!-- Service End -->
+<!-- Service End -->
 
 
-    <!-- Feature Start -->
-    <!-- <div class="container-fluid bg-primary overflow-hidden my-5 px-lg-0">
+<!-- Feature Start -->
+<!-- <div class="container-fluid bg-primary overflow-hidden my-5 px-lg-0">
         <div class="container feature px-lg-0">
             <div class="row g-0 mx-lg-0">
                 <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.1s">
@@ -181,11 +187,11 @@
             </div>
         </div>
     </div> -->
-    <!-- Feature End -->
+<!-- Feature End -->
 
 
-    <!-- Team Start -->
-    <!-- <div class="container-xxl py-5">
+<!-- Team Start -->
+<!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="d-inline-block border rounded-pill py-1 px-4">Doctors</p>
@@ -259,11 +265,11 @@
             </div>
         </div>
     </div> -->
-    <!-- Team End -->
+<!-- Team End -->
 
 
-    <!-- Appointment Start -->
-    <!-- <div class="container-xxl py-5">
+<!-- Appointment Start -->
+<!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -337,11 +343,11 @@
             </div>
         </div>
     </div> -->
-    <!-- Appointment End -->
+<!-- Appointment End -->
 
 
-    <!-- Testimonial Start -->
-    <!-- <div class="container-xxl py-5">
+<!-- Testimonial Start -->
+<!-- <div class="container-xxl py-5">
         <div class="container">
             <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
                 <p class="d-inline-block border rounded-pill py-1 px-4">Testimonial</p>
@@ -375,9 +381,9 @@
             </div>
         </div>
     </div> -->
-    <!-- Testimonial End -->
+<!-- Testimonial End -->
 
-        </div>
+</div>
 </div>
 
 @stop

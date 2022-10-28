@@ -54,6 +54,9 @@
                             <a href="new-post.html">DasHum Pembentukan</a>
                         </li>
                         <li>
+                            <a href="new-post.html">SK Pembentukan</a>
+                        </li>
+                        <li>
                             <a href="new-post.html">SOP</a>
                         </li>
                     </ul>
@@ -90,6 +93,9 @@
                         </span>
                     </a>
                     <ul class="cat-sub-menu">
+                        <li>
+                            <a href="media-01.html">Informasi</a>
+                        </li>
                         <li>
                             <a href="media-01.html">Datang Langsung</a>
                         </li>
