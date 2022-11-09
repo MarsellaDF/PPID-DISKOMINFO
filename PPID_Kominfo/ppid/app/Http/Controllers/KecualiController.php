@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\adminkecuali;
 
 class KecualiController extends Controller
 {
@@ -13,7 +14,8 @@ class KecualiController extends Controller
      */
     public function index()
     {
-        return view('kecuali');
+        $data['adminKecuali'] = AdminKecuali::where('status', true)->orderByDesc('id')->get();
+        return view('kecuali', $data);
     }
 
     /**

@@ -41,6 +41,9 @@ Route::resource('adminpermohonan-admin', App\Http\Controllers\AdminPermohonanCon
 Route::resource('adminkeberatan-admin', App\Http\Controllers\AdminKeberatanController::class);
 Route::resource('adminlaporan-admin', App\Http\Controllers\AdminLaporanController::class);
 Route::resource('adminberkala-admin', App\Http\Controllers\AdminBerkalaController::class);
+Route::resource('adminsesaat-admin', App\Http\Controllers\AdminSesaatController::class);
+Route::resource('adminsemerta-admin', App\Http\Controllers\AdminSemertaController::class);
+Route::resource('adminkecuali-admin', App\Http\Controllers\AdminKecualiController::class);
 
 
 Auth::routes();

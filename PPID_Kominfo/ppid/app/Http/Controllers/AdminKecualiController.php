@@ -2,11 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\AdminBerkala;
+use App\Models\adminkecuali;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
 
-class AdminBerkalaController extends Controller
+class adminkecualiController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -15,8 +15,8 @@ class AdminBerkalaController extends Controller
      */
     public function index()
     {
-        $data['adminBerkala'] = AdminBerkala::orderByDesc('id')->get();
-        return view("admin.adminberkala.index", $data);
+        $data['adminKecuali'] = AdminKecuali::orderByDesc('id')->get();
+        return view("admin.adminkecuali.index", $data);
     }
 
     /**
@@ -26,7 +26,7 @@ class AdminBerkalaController extends Controller
      */
     public function create()
     {
-        return view("admin.adminberkala.create");
+        return view("admin.adminkecuali.create");
     }
 
     /**
@@ -42,17 +42,18 @@ class AdminBerkalaController extends Controller
             'url' => 'required'
         ]);
 
-        $dtadminBerkala = [
+        $dtadminKecuali = [
             'title' => $request->title,
             'url' => $request->url,
+            // 'image' => $imageurl,
             'status' => $request->status,
             'created_at' => now(),
         ];
 
-        $save = DB::table('admin_berkalas')->insert($dtadminBerkala);
+        $save = DB::table('admin_kecualis')->insert($dtadminKecuali);
 
         if ($save) {
-            return redirect('/adminberkala-admin')
+            return redirect('/adminkecuali-admin')
                 ->with([
                     'success' => 'Data Berhasil Ditambah',
                 ]);
@@ -69,10 +70,10 @@ class AdminBerkalaController extends Controller
     /**
      * Display the specified resource.
      *
-     * @param  \App\Models\AdminBerkala  $adminberkala
+     * @param  \App\Models\AdminKecuali  $adminkecuali
      * @return \Illuminate\Http\Response
      */
-    public function show(AdminBerkala $adminBerkala)
+    public function show(AdminKecuali $adminKecuali)
     {
         //
     }
@@ -80,39 +81,39 @@ class AdminBerkalaController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Models\AdminBerkala  $adminberkala
+     * @param  \App\Models\AdminKecuali  $adminkecuali
      * @return \Illuminate\Http\Response
      */
     public function edit($id)
     {
-        $data['adminBerkala'] = AdminBerkala::where('id',$id)->first();
-        return view('admin.adminberkala.edit', $data);
+        $data['adminKecuali'] = AdminKecuali::where('id',$id)->first();
+        return view('admin.adminkecuali.edit', $data);
     }
 
     /**
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Models\AdminBerkala  $adminberkala
+     * @param  \App\Models\AdminKecuali  $adminkecuali
      * @return \Illuminate\Http\Response
      */
     public function update(Request $request, $id)
     {
-        $adminBerkala = AdminBerkala::where('id',$id)->first();
+        $adminKecuali = AdminKecuali::where('id',$id)->first();
 
-        $changeadminBerkala = [
+        $changeadminKecuali = [
             'title' => $request->title,
             'url' => $request->url,
             'status' => $request->status,
             'updated_at' => now(),
         ];
 
-        $data = DB::table('admin_berkalas')
+        $data = DB::table('admin_kecualis')
         ->where('id', $id)
-        ->update($changeadminBerkala);
+        ->update($changeadminKecuali);
 
-        if ($adminBerkala) {
-            return redirect('/adminberkala-admin')
+        if ($adminKecuali) {
+            return redirect('/adminkecuali-admin')
                 ->with([
                     'success' => 'Data Berhasil Diperbarui',
                 ]);
@@ -129,14 +130,14 @@ class AdminBerkalaController extends Controller
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Models\AdminBerkala  $adminberkala
+     * @param  \App\Models\AdminKecuali  $adminkecuali
      * @return \Illuminate\Http\Response
      */
     public function destroy($id)
     {
-        $adminBerkala = AdminBerkala::where('id',$id)->first();
+        $adminKecuali = AdminKecuali::where('id',$id)->first();
 
-        if (empty($adminBerkala)) {
+        if (empty($adminKecuali)) {
             return redirect()
             ->back()
             ->withInput()
@@ -145,10 +146,10 @@ class AdminBerkalaController extends Controller
             ]);
         }
 
-        $data = AdminBerkala::where('id',$id)->delete();
+        $data = AdminKecuali::where('id',$id)->delete();
 
-        if ($adminBerkala) {
-            return redirect('/adminberkala-admin')
+        if ($adminKecuali) {
+            return redirect('/adminkecuali-admin')
                 ->with([
                     'success' => 'Data Berhasil Dihapus',
                 ]);

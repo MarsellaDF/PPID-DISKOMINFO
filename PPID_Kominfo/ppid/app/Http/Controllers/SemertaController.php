@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\AdminSemerta;
 
 class SemertaController extends Controller
 {
@@ -13,7 +14,8 @@ class SemertaController extends Controller
      */
     public function index()
     {
-        return view('semerta');
+        $data['adminSemerta'] = AdminSemerta::where('status', true)->orderByDesc('id')->get();
+        return view('semerta', $data);
     }
 
     /**

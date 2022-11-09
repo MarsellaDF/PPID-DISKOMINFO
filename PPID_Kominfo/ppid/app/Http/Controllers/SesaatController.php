@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\AdminSesaat;
 
 class SesaatController extends Controller
 {
@@ -13,7 +14,8 @@ class SesaatController extends Controller
      */
     public function index()
     {
-        return view('sesaat');
+        $data['adminSesaat'] = AdminSesaat::where('status', true)->orderByDesc('id')->get();
+        return view('sesaat', $data);
     }
 
     /**
