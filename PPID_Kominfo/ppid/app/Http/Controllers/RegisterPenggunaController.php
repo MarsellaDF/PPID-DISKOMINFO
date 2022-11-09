@@ -101,6 +101,7 @@ class RegisterPenggunaController extends Controller
             'nik' => $data['nik'],
             'address' => $data['address'],
             'telepon' => $data['telepon'],
+            'email' => $data['email'],
             'jobs' => $data['jobs'],
             'status' => false,
             'created_at' => now(),

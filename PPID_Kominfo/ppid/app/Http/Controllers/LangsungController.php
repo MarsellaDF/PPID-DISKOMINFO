@@ -3,6 +3,9 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Models\AdminLangsung;
+use App\Models\AdminPermohonan;
+use App\Models\AdminKeberatan;
 
 class LangsungController extends Controller
 {
@@ -13,7 +16,12 @@ class LangsungController extends Controller
      */
     public function index()
     {
-        return view('langsung');
+        $data['mekanismePermohonanInformasiPublik'] = AdminLangsung::where("title", "Mekanisme Permohonan Informasi Publik")->first();
+        $data['jangkaWaktuPenyelesaian'] =  AdminLangsung::where("title", "Jangka Waktu Penyelesaian")->first();
+        $data['biaya'] =  AdminLangsung::where("title", "Biaya/Tarif")->first();
+        $data['adminPermohonan'] = AdminPermohonan::where('status', true)->orderByDesc('id')->get();
+        $data['adminKeberatan'] = AdminKeberatan::where('status', true)->orderByDesc('id')->get();
+        return view('langsung', $data);
     }
 
     /**

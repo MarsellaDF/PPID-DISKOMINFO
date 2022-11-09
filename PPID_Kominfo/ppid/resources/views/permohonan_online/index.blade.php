@@ -37,68 +37,71 @@
                         <h4>Formulir Permohonan Informasi</h4>
                     </div>
                     <div class="card-body">
-                        <form action="{{ route('permohonan_online.store') }}" method="POST" enctype="multipart/form-data">
+                        <form action="{{ route('permohonan_online.store') }}" method="POST"
+                            enctype="multipart/form-data">
                             @csrf
 
                             <div class="row">
                                 <div class="col-lg-12 col-md-12 col-sm-12">
-                                <div class="mb-3">
-                                        <label for="exampleFormControlInput1" class="form-label">Nomor Induk Kependudukan</label>
+                                    <div class="mb-3">
+                                        <label for="exampleFormControlInput1" class="form-label">Nomor Induk
+                                            Kependudukan</label>
                                         <input name="nik" type="text" class="form-control" maxlength="16"
                                             data-minlength="16" id="exampleFormControlInput1"
                                             placeholder="35**************" value="{{ $dataPengguna->nik }}">
                                         @error('nik')
-                                            <div class="text-danger">* {{ $message }}</div>
+                                        <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
 
                                     <div class="mb-3">
                                         <label for="exampleFormControlInput1" class="form-label">Nama Lengkap</label>
-                                        <input name="nama" type="text" class="form-control"
+                                        <input name="name" type="text" class="form-control"
                                             value="{{ $dataUser->name }}" id="exampleFormControlInput1"
                                             placeholder="Nama Lengkap Anda">
                                         @error('nama')
-                                            <div class="text-danger">* {{ $message }}</div>
+                                        <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
 
                                     <div class="mb-3">
                                         <label for="exampleFormControlInput1" class="form-label">Alamat Lengkap</label>
-                                        <input name="alamat" type="text" class="form-control"
+                                        <input name="address" type="text" class="form-control"
                                             value="{{ $dataPengguna->address }}" id="exampleFormControlInput1"
                                             placeholder="Isikan Alamat Lengkap Anda">
                                         @error('alamat')
-                                            <div class="text-danger">* {{ $message }}</div>
+                                        <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
 
                                     <div class="mb-3">
                                         <label for="exampleFormControlInput1" class="form-label">Email</label>
                                         <input name="email" type="text" class="form-control"
-                                            value="{{ old('email') }}" id="exampleFormControlInput1"
+                                            value="{{ $dataPengguna->email }}" id="exampleFormControlInput1"
                                             placeholder="Isikan Email Anda">
                                         @error('email')
-                                            <div class="text-danger">* {{ $message }}</div>
+                                        <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
 
                                     <div class="mb-3">
                                         <label for="exampleFormControlInput1" class="form-label">Pekerjaan</label>
-                                        <input name="pekerjaan" type="text" class="form-control"
-                                            value="{{ old('pekerjaan') }}" id="exampleFormControlInput1"
+                                        <input name="jobs" type="text" class="form-control"
+                                            value="{{ $dataPengguna->jobs }}" id="exampleFormControlInput1"
                                             placeholder="Isikan Pekerjaan Anda">
                                         @error('pekerjaan')
-                                            <div class="text-danger">* {{ $message }}</div>
+                                        <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
 
                                     <div class="mb-3">
-                                        <label for="exampleFormControlInput1" class="form-label">Nomor Telepon/WhatsApp</label>
-                                        <input name="nomor" type="text" class="form-control" maxlength="13"
+                                        <label for="exampleFormControlInput1" class="form-label">Nomor
+                                            Telepon/WhatsApp</label>
+                                        <input name="telepon" type="text" class="form-control" maxlength="13"
                                             data-minlength="13" id="exampleFormControlInput1"
-                                            placeholder="62***********" value="{{ old('nomor') }}">
+                                            placeholder="62***********" value="{{ $dataPengguna->telepon }}">
                                         @error('nomor')
-                                            <div class="text-danger">* {{ $message }}</div>
+                                        <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
 
@@ -117,49 +120,53 @@
                                         </div> -->
 
                                     <div class="mb-3">
-                                        <label for="exampleFormControlInput1" class="form-label">Informasi Yang Dibutuhkan</label>
+                                        <label for="exampleFormControlInput1" class="form-label">Informasi Yang
+                                            Dibutuhkan</label>
                                         <input name="informasi" type="text" class="form-control"
                                             value="{{ old('informasi') }}" id="exampleFormControlInput1"
                                             placeholder="Isikan informasi yang sedang anda butuhkan">
                                         @error('informasi')
-                                            <div class="text-danger">* {{ $message }}</div>
+                                        <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
 
                                     <div class="mb-3">
-                                        <label for="exampleFormControlInput1" class="form-label">Alasan dan Tujuan Penggunaan Informasi</label>
+                                        <label for="exampleFormControlInput1" class="form-label">Alasan dan Tujuan
+                                            Penggunaan Informasi</label>
                                         <input name="alasan_tujuan" type="text" class="form-control"
                                             value="{{ old('alasan_tujuan') }}" id="exampleFormControlInput1"
                                             placeholder="Isikan alasan dan tujuan anda dalam penggunaan informasi">
                                         @error('alasan_tujuan')
-                                            <div class="text-danger">* {{ $message }}</div>
+                                        <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
 
                                     <div class="mb-3">
-                                        <label for="exampleFormControlInput1" class="form-label">Cara Mendapatkan Informasi</label>
+                                        <label for="exampleFormControlInput1" class="form-label">Cara Mendapatkan
+                                            Informasi</label>
                                         <select name="cara" id="informasi" class="form-select">
-                                                    <option value="">-Pilih</option>
-                                                    <option value="Email"
-                                                        {{ old('cara') == 'Email' ? 'selected=selected' : '' }}>Dikirimkan Melalui Email
-                                                    </option>
-                                                    <option value="WhatsApp"
-                                                        {{ old('cara') == 'Nomor' ? 'selected=selected' : '' }}>Dikirimkan Melalui Nomor WhatsApp
-                                                    </option>
-                                            </select>
+                                            <option value="">-Pilih</option>
+                                            <option value="Email"
+                                                {{ old('cara') == 'Email' ? 'selected=selected' : '' }}>Dikirimkan
+                                                Melalui Email
+                                            </option>
+                                            <option value="WhatsApp"
+                                                {{ old('cara') == 'Nomor' ? 'selected=selected' : '' }}>Dikirimkan
+                                                Melalui Nomor WhatsApp
+                                            </option>
+                                        </select>
                                         @error('cara')
-                                                <div class="text-danger">* {{ $message }}</div>
+                                        <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
 
                                     <div class="mb-3">
                                         <label for="exampleFormControlInput1" class="form-label">Foto KTP</label>
-                                        <input name="ktp" type="file" class="form-control"
-                                            value="{{ old('ktp') }}" id="exampleFormControlInput1"
-                                            accept="image/*"
+                                        <input name="ktp" type="file" class="form-control" value="{{ old('ktp') }}"
+                                            id="exampleFormControlInput1" accept="image/*"
                                             placeholder="Upload Foto KTP terlebih dahulu">
                                         @error('informasi')
-                                            <div class="text-danger">* {{ $message }}</div>
+                                        <div class="text-danger">* {{ $message }}</div>
                                         @enderror
                                     </div>
 

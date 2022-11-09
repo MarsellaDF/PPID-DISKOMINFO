@@ -18,23 +18,24 @@
         <article class="sign-up">
             <h1 class="sign-up__title">REGISTER</h1>
             <form class="sign-up-form form" action="{{ url('register-pengguna')}}" method="POST" required>
-            {{ csrf_field() }}
+                {{ csrf_field() }}
                 <label class="form-label-wrapper">
                     <p class="form-label">Nomor Induk Kependudukan (NIK)</p>
                     <input class="form-input" type="number" name="nik" placeholder="Masukkan NIK Anda" required>
                 </label>
                 <label class="form-label-wrapper">
                     <p class="form-label">Nama</p>
-                    <input class="form-input" type="text" name="name" placeholder="Masukkan Nama Lengkap anda"
-                        required>
+                    <input class="form-input" type="text" name="name" placeholder="Masukkan Nama Lengkap anda" required>
                 </label>
                 <label class="form-label-wrapper">
                     <p class="form-label">Alamat</p>
-                    <input class="form-input" type="text" name="address" placeholder="Masukkan Alamat Lengkap Anda" required>
+                    <input class="form-input" type="text" name="address" placeholder="Masukkan Alamat Lengkap Anda"
+                        required>
                 </label>
                 <label class="form-label-wrapper">
                     <p class="form-label">Nomor Telepon</p>
-                    <input class="form-input" type="tel" name="telepon" placeholder="Masukkan Nomor Telepon Anda" required>
+                    <input class="form-input" type="tel" name="telepon" placeholder="Masukkan Nomor Telepon Anda"
+                        required>
                 </label>
                 <label class="form-label-wrapper">
                     <p class="form-label">Pekerjaan</p>

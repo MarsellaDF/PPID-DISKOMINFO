@@ -19,7 +19,7 @@
         <div class="sidebar-body">
             <ul class="sidebar-body-menu">
                 <li>
-                    <a class="active" href="##"><span class="icon home" aria-hidden="true"></span>Dashboard</a>
+                    <a class="active" href="/admin"><span class="icon home" aria-hidden="true"></span>Dashboard</a>
                 </li>
                 <li>
                     <a class="show-cat-btn" href="##">
@@ -48,16 +48,16 @@
                     </a>
                     <ul class="cat-sub-menu">
                         <li>
-                            <a href="posts.html">Pedoman</a>
+                            <a href="/adminpedoman-admin">Pedoman</a>
                         </li>
                         <li>
-                            <a href="new-post.html">DasHum Pembentukan</a>
+                            <a href="/admindashum-admin">DasHum Pembentukan</a>
                         </li>
                         <li>
-                            <a href="new-post.html">SK Pembentukan</a>
+                            <a href="/adminsk-admin">SK Pembentukan</a>
                         </li>
                         <li>
-                            <a href="new-post.html">SOP</a>
+                            <a href="/adminsop-admin">SOP</a>
                         </li>
                     </ul>
                 </li>
@@ -71,16 +71,16 @@
                     </a>
                     <ul class="cat-sub-menu">
                         <li>
-                            <a href="pages.html">Berkala</a>
+                            <a href="/adminberkala-admin">Berkala</a>
                         </li>
                         <li>
-                            <a href="new-page.html">Setiap Saat</a>
+                            <a href="/adminsesaat-admin">Setiap Saat</a>
                         </li>
                         <li>
-                            <a href="new-page.html">Serta Merta</a>
+                            <a href="/adminsemerta-admin">Serta Merta</a>
                         </li>
                         <li>
-                            <a href="new-page.html">Dikecualikan</a>
+                            <a href="/adminkecuali-admin">Dikecualikan</a>
                         </li>
                     </ul>
                 </li>
@@ -97,16 +97,16 @@
                             <a href="media-01.html">Informasi</a>
                         </li>
                         <li>
-                            <a href="media-01.html">Datang Langsung</a>
+                            <a href="/adminlangsung-admin">Datang Langsung</a>
                         </li>
                         <li>
-                            <a href="media-02.html">Permohonan</a>
+                            <a href="/adminpermohonan-admin">Permohonan</a>
                         </li>
                         <li>
-                            <a href="media-02.html">Keberatan</a>
+                            <a href="/adminkeberatan-admin">Keberatan</a>
                         </li>
                         <li>
-                            <a href="media-02.html">Laporan</a>
+                            <a href="/adminlaporan-admin">Laporan</a>
                         </li>
                     </ul>
                 </li>

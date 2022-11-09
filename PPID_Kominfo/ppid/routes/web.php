@@ -36,8 +36,13 @@ Route::resource('pengguna',App\Http\Controllers\PenggunaController::class)->midd
 // backend
 Route::resource('banner-admin', App\Http\Controllers\BannerController::class);
 Route::resource('library-admin', App\Http\Controllers\LibraryController::class);
+Route::resource('adminlangsung-admin', App\Http\Controllers\AdminLangsungController::class);
+Route::resource('adminpermohonan-admin', App\Http\Controllers\AdminPermohonanController::class);
+Route::resource('adminkeberatan-admin', App\Http\Controllers\AdminKeberatanController::class);
+Route::resource('adminlaporan-admin', App\Http\Controllers\AdminLaporanController::class);
+Route::resource('adminberkala-admin', App\Http\Controllers\AdminBerkalaController::class);
+
 
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
-

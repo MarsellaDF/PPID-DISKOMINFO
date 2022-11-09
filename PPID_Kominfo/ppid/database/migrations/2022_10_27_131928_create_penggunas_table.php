@@ -19,6 +19,7 @@ return new class extends Migration
             $table->string("nik",25)->nullable();
             $table->text("address")->nullable();
             $table->string("telepon", 50)->nullable();
+            $table->string("email")->nullable();
             $table->string("jobs")->nullable();
             $table->boolean("status")->nullable();
             $table->timestamps();

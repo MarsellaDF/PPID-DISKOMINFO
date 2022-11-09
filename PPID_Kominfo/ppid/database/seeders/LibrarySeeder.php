@@ -30,6 +30,83 @@ class LibrarySeeder extends Seeder
                 'status' => true,
                 'created_at' => now(),
             ],
+            [
+                'title' => 'Susunan Keanggotaan PPID',
+                'content' => '<table class="table1">
+                <tr>
+                    <td>Atasan PPID</td>
+                    <td>Budi Santoso</td>
+                    <td>Kepala Dinas Komunikasi, Informatika dan Persandian Kabupaten Banyuwangi</td>
+                </tr>
+                <tr>
+                    <td>Ketua</td>
+                    <td>Abin Hidayat</td>
+                    <td>Sekretaris Dinas Komunikasi, Informatika dan Persandian Kabupaten Banyuwangi</td>
+                </tr>
+                <tr>
+                    <td>Sekretaris<br>
+                        - Pengelola Sekretariat<br>
+                        - Anggota</td>
+                    <td>Rahmawati Setyoardini<br>
+                        Hj. Ermi Rossana<br>
+                        1. Moh. Arif Fajartono<br>
+                        2. Hendy Fatkhurochman<br>
+                        3. Prastiyo<br>
+                        4. Nur Hidayati<br>
+                        5. Rif\'atul Husnia</td>
+                    <td>Kepala Bidang Informasi dan Komunikasi Publik Kasi Dokumentasi dan Pemberitaan<br>
+                        Staf<br>
+                        Staf<br>
+                        Staf<br>
+                        Staf<br>
+                        Staf<br>
+                        Staf</td>
+                </tr>
+                <tr>
+                    <td>Bidang - Bidang<br>
+                        a. Ketua Bidang Pelayanan dan Dokumentasi Informasi<br>
+                        - Pengelola Publikasi<br>
+                        - Anggota<br></br>
+                        b. Ketua Bidang Pengolah Data dan Klasifikasi Informasi<br>
+                        - Pengelola Data<br>
+                        - Anggota<br>
+                        c. Ketua Bidang Penyelesaian Sengketa Informasi<br>
+                        - Anggota (Pengelola Penyelesaian Sengketa)</td>
+                    <td>Agustinus Suko Basuki<br>
+                        1. Sumber Hari Hartono<br>
+                        2. Ririn Handajati<br>
+                        3. Faridhatis Salmi<br>
+                        4. Wahyu Priyanto<br></br>
+                        Tri Jatmiko<br>
+                        1. Arif Fauzi<br>
+                        2. Joni Priyanto<br>
+                        3. Moh. Zainur Rofik<br>
+                        4. Niluh Sari Kurnia Pratiwi<br></br>
+                        Hj. Sujarmi<br>
+                        1. Nafi Feridian<br>
+                        2. Edy Fakhrurahman Hamid<br>
+                        3. Windy Sindu Pradana<br>
+                        4. R. Arief Budi Santoso</td>
+                    <td>Kepala Bidang Teknologi Informatika<br>
+                        Kasi Aplikasi dan Tata Kelola Teknologi Informatika<br>
+                        Kasubbag Penyusunan Program<br>
+                        Staf<br>
+                        Staf<br></br>
+                        Kepala Bidang Statistik dan Persandian<br>
+                        Kasi Infrastuktur Teknologi Informatika<br>
+                        Kasi Persandian<br>
+                        Staf<br>
+                        Staf<br></br>
+                        Kasubbag Umum dan Keuangan<br>
+                        Kasi Komunikasi Publik<br>
+                        Kasi Informasi Publik<br>
+                        Staf<br>
+                        Staf<br></br>
+                </tr>
+            </table>',
+            'status' => true,
+            'created_at' => now(),
+            ],
         ];
 
         DB::table('libraries')->insert($posts);

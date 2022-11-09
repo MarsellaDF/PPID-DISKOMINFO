@@ -27,6 +27,7 @@ class HomeController extends Controller
     {
         $data['banners'] = Banner::where('status', true)->orderByDesc('id')->get();
         $data['latarBelakang'] =  Library::where("title", "Latar Belakang")->first();
+        $data['susunanKeanggotaanPPID'] =  Library::where("title", "Susunan Keanggotaan PPID")->first();
         return view('beranda', $data);
     }
 }
