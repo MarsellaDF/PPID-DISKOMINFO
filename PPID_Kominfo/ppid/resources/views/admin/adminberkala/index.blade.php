@@ -18,10 +18,10 @@
 
                     <td>{{ $data->title }}</td>
                     <td>
-                        @if ($data['image'] != null || $data['image'] != '')
-                        <a href="/upload/adminberkala/{{ $data->image }}" target="_blank" class="btn btn-outline-primary"> VIEW </a>
+                        @if ($data['url'] != null || $data['url'] != '')
+                        <a href={{ $data->url }} target="_blank" class="btn btn-link">Lihat Disini</a>
                         @else
-                            <span style="color: red">Tidak ada file</span>
+                            <span style="color: red">Tidak ada URL</span>
                         @endif
                     </td>
                     <td>

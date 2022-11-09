@@ -14,7 +14,8 @@ class BerkalaController extends Controller
      */
     public function index()
     {
-        return view('berkala');
+        $data['adminBerkala'] = AdminBerkala::where('status', true)->orderByDesc('id')->get();
+        return view('berkala', $data);
     }
 
     /**

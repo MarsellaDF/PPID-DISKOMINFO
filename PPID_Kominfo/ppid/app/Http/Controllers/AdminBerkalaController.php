@@ -93,7 +93,7 @@ class AdminBerkalaController extends Controller
      */
     public function edit($id)
     {
-        $data['adminberkala'] = AdminBerkala::where('id',$id)->first();
+        $data['adminBerkala'] = AdminBerkala::where('id',$id)->first();
         return view('admin.adminberkala.edit', $data);
     }
 
@@ -107,23 +107,23 @@ class AdminBerkalaController extends Controller
     public function update(Request $request, $id)
     {
         $adminBerkala = AdminBerkala::where('id',$id)->first();
-        $imageurl = $adminBerkala->image;
+        // $imageurl = $adminBerkala->image;
 
-        if ($request->hasFile('image')) {
-            $reqImage = $request->image;
-            $name = time().rand(1,100).'.'.$reqImage->extension();
-            $reqImage->move(public_path().'/upload/adminberkala/', $name);
-            $imageurl = $name;
+        // if ($request->hasFile('image')) {
+        //     $reqImage = $request->image;
+        //     $name = time().rand(1,100).'.'.$reqImage->extension();
+        //     $reqImage->move(public_path().'/upload/adminberkala/', $name);
+        //     $imageurl = $name;
 
-            $file = 'upload/adminberkala/' . $adminBerkala->image;
-            if ($adminBerkala->image != '' && $adminBerkala->image != null) {
-                unlink($file);
-            }
-        }
+        //     $file = 'upload/adminberkala/' . $adminBerkala->image;
+        //     if ($adminBerkala->image != '' && $adminBerkala->image != null) {
+        //         unlink($file);
+        //     }
+        // }
 
         $changeadminBerkala = [
             'title' => $request->title,
-            'image' => $imageurl,
+            'url' => $request->url,
             'status' => $request->status,
             'updated_at' => now(),
         ];
@@ -166,10 +166,10 @@ class AdminBerkalaController extends Controller
             ]);
         }
 
-        $file = 'upload/adminberkala/' . $adminBerkala->image;
-        if ($adminBerkala->image != '' && $adminBerkala->image != null) {
-            unlink($file);
-        }
+        // $file = 'upload/adminberkala/' . $adminBerkala->image;
+        // if ($adminBerkala->image != '' && $adminBerkala->image != null) {
+        //     unlink($file);
+        // }
 
         $data = AdminBerkala::where('id',$id)->delete();
 

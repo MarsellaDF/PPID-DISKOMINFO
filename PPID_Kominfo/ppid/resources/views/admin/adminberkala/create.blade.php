@@ -15,10 +15,10 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="form-group">
-                            <label for="image" class="form-label">Jenis Media Yang Memuat Informasi</label>
-                            <input type='file' name="image" id="imgInp" class="form-control" />
-                        </div>
-                    </div>
+                            <label class="font-weight-bold">Jenis Media Yang Memuat Informasi</label>
+                            <input type="text" name="url" class="form-control" placeholder="Inputkan Link Informasi Berkala"/>
+                                </div>
+                            </div>
                     <div class="col-lg-6">
                         <div class="form-group">
                             <label for="image" class="form-label">Status Informasi Berkala</label>
@@ -37,7 +37,7 @@
             </div>
         </form>
     </div>
-    <script>
+    {{-- <script>
         imgInp.onchange = evt => {
             const [file] = imgInp.files
             if (file) {
@@ -45,5 +45,5 @@
                 blah.src = URL.createObjectURL(file)
             }
         }
-    </script>
+    </script> --}}
 @endsection

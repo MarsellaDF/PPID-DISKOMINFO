@@ -4,7 +4,7 @@
 <div class="container">
     <div class="row" style="padding: 16px; background-color:rgb(213, 228, 247)">
         <div class="col">
-            <h4><a href="/admin">Dashboard</a> / <a style="color: grey">Layanan Informasi</a>
+            <h4><a href="/admin">Dashboard</a> / <a style="color: grey">Informasi Datang Langsung</a>
             </h4>
         </div>
     </div>

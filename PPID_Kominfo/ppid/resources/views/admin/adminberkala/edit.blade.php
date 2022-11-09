@@ -10,11 +10,11 @@
                 <div class="row g-2">
                     <div class="col mb-0">
                         <label class="font-weight-bold">Judul Informasi</label>
-                        <input type="text" name="title" value="{{ $adminBerkala->title }}" class="form-control" placeholder="Inputkan Perihal"/>
+                        <input type="text" name="title" value="{{ $adminBerkala->title }}" class="form-control" placeholder="Inputkan Judul Informasi Berkala"/>
                     </div>
                     <div class="col mb-0">
                         <label for="image" class="form-label">Jenis Media Yang Memuat Informasi</label>
-                        <input type='file' name="image" id="imgInp" class="form-control" />
+                        <input type="text" name="url" value="{{ $adminBerkala->url }}" class="form-control" placeholder="Inputkan Link Informasi Berkala"/>
                     </div>
                     <div class="col mb-0">
                         <div class="form-check mt-3">
@@ -33,12 +33,12 @@
             </div>
         </form>
     </div>
-    <script>
+    {{-- <script>
         imgInp.onchange = evt => {
             const [file] = imgInp.files
             if (file) {
                 blah.src = URL.createObjectURL(file)
             }
         }
-    </script>
+    </script> --}}
 @endsection
