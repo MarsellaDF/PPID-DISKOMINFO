@@ -3,9 +3,10 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\Models\AdminSop;
+use App\Models\AdminSk;
 
-class SopController extends Controller
+
+class SkController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -14,7 +15,8 @@ class SopController extends Controller
      */
     public function index()
     {
-        return view('sop');
+        $data['adminSk'] = AdminSkpembentukan::where('status', true)->orderByDesc('id')->get();
+        return view('Sk', $data);
     }
 
     /**

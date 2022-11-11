@@ -44,7 +44,10 @@ Route::resource('adminberkala-admin', App\Http\Controllers\AdminBerkalaControlle
 Route::resource('adminsesaat-admin', App\Http\Controllers\AdminSesaatController::class);
 Route::resource('adminsemerta-admin', App\Http\Controllers\AdminSemertaController::class);
 Route::resource('adminkecuali-admin', App\Http\Controllers\AdminKecualiController::class);
-
+Route::resource('adminpedoman-admin', App\Http\Controllers\AdminPedomanController::class);
+Route::resource('admindashum-admin', App\Http\Controllers\AdminDashumController::class);
+Route::resource('adminsk-admin', App\Http\Controllers\AdminSkController::class);
+Route::resource('adminsop-admin', App\Http\Controllers\AdminSopController::class);
 
 Auth::routes();
 

@@ -3,6 +3,7 @@
 <!-- mengisi badan content dengan isi di bawah section-->
 @section('content')
 
+
 <div class="container-xxl py-5">
     <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s">
         <h3 class="mb-5">BUPATI BANYUWANGI</h3>
